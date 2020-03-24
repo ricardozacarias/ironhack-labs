@@ -1,0 +1,314 @@
+[
+  {
+    "sha": "6a243303cfd846faac16417cad54cd40ab3f82c6",
+    "node_id": "MDY6Q29tbWl0MjAzMTMyMjg2OjZhMjQzMzAzY2ZkODQ2ZmFhYzE2NDE3Y2FkNTRjZDQwYWIzZjgyYzY=",
+    "commit": {
+      "author": {
+        "name": "Carlos Madriz",
+        "email": "45972288+carlosmd14@users.noreply.github.com",
+        "date": "2019-08-19T11:12:15Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-08-19T11:12:15Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "5696a145dbbeef9a0417d852b706178bbca30900",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/trees/5696a145dbbeef9a0417d852b706178bbca30900"
+      },
+      "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/commits/6a243303cfd846faac16417cad54cd40ab3f82c6",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdWoQPCRBK7hj4Ov3rIwAAdHIIAJTBH5eUYEEp3WgPEtcI57ap\nWOrVSW7+ff0RC/Gg24Oh8jJ/Ev4Km6s4n3/E/UdA2oJNaT1U2zSFJRmeHysxppEE\nrmSSi4RChUeuHjK//QBzmY+5NuwFtC+aLCBPfsRxrYhzmGH7luBAj2eHYpB1DWK0\n49i4aTHVPFXjUGMROeJoeZPJkJ5o9PdktYYqoCWqs91+1cd3c+GMjWWp2BeFzT0R\nG/m1TJhFqTHlh14K6uNQHOhCrYVAvO1JR+HuXNMDuR34bQu7cj77q15l41vNU50I\n5zm08mxJS6tXCxNRoxvBIGJLoJ2bjnTSDc94pI4x8kajxHqxZz2RxT14Z5/tiFA=\n=MHT8\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 5696a145dbbeef9a0417d852b706178bbca30900\nparent ee6d046595a26c76425df9fffdb6ed6737c7c06b\nauthor Carlos Madriz <45972288+carlosmd14@users.noreply.github.com> 1566213135 +0100\ncommitter GitHub <noreply@github.com> 1566213135 +0100\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/6a243303cfd846faac16417cad54cd40ab3f82c6",
+    "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/6a243303cfd846faac16417cad54cd40ab3f82c6",
+    "comments_url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/6a243303cfd846faac16417cad54cd40ab3f82c6/comments",
+    "author": {
+      "login": "carlosmd14",
+      "id": 45972288,
+      "node_id": "MDQ6VXNlcjQ1OTcyMjg4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45972288?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlosmd14",
+      "html_url": "https://github.com/carlosmd14",
+      "followers_url": "https://api.github.com/users/carlosmd14/followers",
+      "following_url": "https://api.github.com/users/carlosmd14/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlosmd14/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlosmd14/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlosmd14/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlosmd14/orgs",
+      "repos_url": "https://api.github.com/users/carlosmd14/repos",
+      "events_url": "https://api.github.com/users/carlosmd14/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlosmd14/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+        "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/ee6d046595a26c76425df9fffdb6ed6737c7c06b"
+      }
+    ]
+  },
+  {
+    "sha": "ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+    "node_id": "MDY6Q29tbWl0MjAzMTMyMjg2OmVlNmQwNDY1OTVhMjZjNzY0MjVkZjlmZmZkYjZlZDY3MzdjN2MwNmI=",
+    "commit": {
+      "author": {
+        "name": "Carlos Madriz",
+        "email": "45972288+carlosmd14@users.noreply.github.com",
+        "date": "2019-08-19T11:11:55Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-08-19T11:11:55Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "b8f7bc522e28cf0166b017e6dea13c4eeeeccfc4",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/trees/b8f7bc522e28cf0166b017e6dea13c4eeeeccfc4"
+      },
+      "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/commits/ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdWoP7CRBK7hj4Ov3rIwAAdHIIAJd7aPBHVDPGbzPDCroanvYe\nc1pSalVKhHxgiNghrBEdWlW7kmzB7Z7yhWOlK6/fs/CDyWT/aj1lhir2nz6JTyuM\nKn89veuVhzPVqHPqF2fACpsgUjppiAMyGp52wz3A1DhMmWZMYaSFBVlS/6Y+8ozm\n6CCl6uNbdBj0Pen1uwf2M1Z+xNFb9sPrsv/QBDotjN7/i3U/NTsFBzIRRxhSpqPh\nomRKXXgsh+S2zmNuSymls5BASye9DxYP8nanumCbOC4Pkb6u6x2MHLedmSu7LLEW\nTsYiQzb8rZ5UWAL4oGRbM/552oYYBpEN+McC5IPD9KDwBLHqEcVx2gyZomG9wCo=\n=XUwE\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b8f7bc522e28cf0166b017e6dea13c4eeeeccfc4\nparent 381994f755b6b95ffc4fe512f36e2640bd04034f\nauthor Carlos Madriz <45972288+carlosmd14@users.noreply.github.com> 1566213115 +0100\ncommitter GitHub <noreply@github.com> 1566213115 +0100\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+    "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/ee6d046595a26c76425df9fffdb6ed6737c7c06b",
+    "comments_url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/ee6d046595a26c76425df9fffdb6ed6737c7c06b/comments",
+    "author": {
+      "login": "carlosmd14",
+      "id": 45972288,
+      "node_id": "MDQ6VXNlcjQ1OTcyMjg4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45972288?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlosmd14",
+      "html_url": "https://github.com/carlosmd14",
+      "followers_url": "https://api.github.com/users/carlosmd14/followers",
+      "following_url": "https://api.github.com/users/carlosmd14/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlosmd14/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlosmd14/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlosmd14/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlosmd14/orgs",
+      "repos_url": "https://api.github.com/users/carlosmd14/repos",
+      "events_url": "https://api.github.com/users/carlosmd14/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlosmd14/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "381994f755b6b95ffc4fe512f36e2640bd04034f",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/381994f755b6b95ffc4fe512f36e2640bd04034f",
+        "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/381994f755b6b95ffc4fe512f36e2640bd04034f"
+      }
+    ]
+  },
+  {
+    "sha": "381994f755b6b95ffc4fe512f36e2640bd04034f",
+    "node_id": "MDY6Q29tbWl0MjAzMTMyMjg2OjM4MTk5NGY3NTViNmI5NWZmYzRmZTUxMmYzNmUyNjQwYmQwNDAzNGY=",
+    "commit": {
+      "author": {
+        "name": "Carlos Madriz",
+        "email": "45972288+carlosmd14@users.noreply.github.com",
+        "date": "2019-08-19T11:10:23Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-08-19T11:10:23Z"
+      },
+      "message": "Added AppleStore.csv",
+      "tree": {
+        "sha": "e32e0079498dade2438f63cd2c54e1da4ceedcfa",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/trees/e32e0079498dade2438f63cd2c54e1da4ceedcfa"
+      },
+      "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/commits/381994f755b6b95ffc4fe512f36e2640bd04034f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdWoOfCRBK7hj4Ov3rIwAAdHIIAKmy5EYnwYy5i7fitlYOyMzk\ncBmicp8rT73odh1ceLF/P0mljAqoz6Eaw1M1t+R1I1C1u3YY098Ym8f7YkmL68/O\nWK9ZSOeWkNdeESGckqEAAAtq9banVS6faupJPczwJOnm/dPT8l2pgeR9hyeqS5zN\nHQPri7jK8aEtqhD3kLWro1W3rZVqXBUAxErUWHNVUmpsiSDmM0HQJNdEbHEzpETJ\nGRGCGQfhzUyU4lrqUOP5sA3g3ku0A0T3ix5I+LNpGU87GIH236SfNjH3RVEc57Ni\nPe/XQOvhjvi9sF9y0EFL5TPZxwSLgHKDyNY4xPjuhoaXH9X0+729J0WDlhAH/uE=\n=ZFrn\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e32e0079498dade2438f63cd2c54e1da4ceedcfa\nparent 2e9b232b72bec7218cd77f171098a7391d89ba8c\nauthor Carlos Madriz <45972288+carlosmd14@users.noreply.github.com> 1566213023 +0100\ncommitter GitHub <noreply@github.com> 1566213023 +0100\n\nAdded AppleStore.csv"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/381994f755b6b95ffc4fe512f36e2640bd04034f",
+    "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/381994f755b6b95ffc4fe512f36e2640bd04034f",
+    "comments_url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/381994f755b6b95ffc4fe512f36e2640bd04034f/comments",
+    "author": {
+      "login": "carlosmd14",
+      "id": 45972288,
+      "node_id": "MDQ6VXNlcjQ1OTcyMjg4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45972288?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlosmd14",
+      "html_url": "https://github.com/carlosmd14",
+      "followers_url": "https://api.github.com/users/carlosmd14/followers",
+      "following_url": "https://api.github.com/users/carlosmd14/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlosmd14/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlosmd14/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlosmd14/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlosmd14/orgs",
+      "repos_url": "https://api.github.com/users/carlosmd14/repos",
+      "events_url": "https://api.github.com/users/carlosmd14/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlosmd14/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2e9b232b72bec7218cd77f171098a7391d89ba8c",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/2e9b232b72bec7218cd77f171098a7391d89ba8c",
+        "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/2e9b232b72bec7218cd77f171098a7391d89ba8c"
+      }
+    ]
+  },
+  {
+    "sha": "2e9b232b72bec7218cd77f171098a7391d89ba8c",
+    "node_id": "MDY6Q29tbWl0MjAzMTMyMjg2OjJlOWIyMzJiNzJiZWM3MjE4Y2Q3N2YxNzEwOThhNzM5MWQ4OWJhOGM=",
+    "commit": {
+      "author": {
+        "name": "Carla Mendes",
+        "email": "carlarsmendes@gmail.com",
+        "date": "2019-08-19T08:36:54Z"
+      },
+      "committer": {
+        "name": "Carla Mendes",
+        "email": "carlarsmendes@gmail.com",
+        "date": "2019-08-19T08:36:54Z"
+      },
+      "message": "first commit",
+      "tree": {
+        "sha": "3ceb679c7c939c7ba1a1c2eefd81a9a39de1bc9a",
+        "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/trees/3ceb679c7c939c7ba1a1c2eefd81a9a39de1bc9a"
+      },
+      "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/git/commits/2e9b232b72bec7218cd77f171098a7391d89ba8c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/2e9b232b72bec7218cd77f171098a7391d89ba8c",
+    "html_url": "https://github.com/ta-data-lis/lab-mysql-first-queries/commit/2e9b232b72bec7218cd77f171098a7391d89ba8c",
+    "comments_url": "https://api.github.com/repos/ta-data-lis/lab-mysql-first-queries/commits/2e9b232b72bec7218cd77f171098a7391d89ba8c/comments",
+    "author": {
+      "login": "carlarsmendes",
+      "id": 38359702,
+      "node_id": "MDQ6VXNlcjM4MzU5NzAy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/38359702?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlarsmendes",
+      "html_url": "https://github.com/carlarsmendes",
+      "followers_url": "https://api.github.com/users/carlarsmendes/followers",
+      "following_url": "https://api.github.com/users/carlarsmendes/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlarsmendes/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlarsmendes/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlarsmendes/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlarsmendes/orgs",
+      "repos_url": "https://api.github.com/users/carlarsmendes/repos",
+      "events_url": "https://api.github.com/users/carlarsmendes/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlarsmendes/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "carlarsmendes",
+      "id": 38359702,
+      "node_id": "MDQ6VXNlcjM4MzU5NzAy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/38359702?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/carlarsmendes",
+      "html_url": "https://github.com/carlarsmendes",
+      "followers_url": "https://api.github.com/users/carlarsmendes/followers",
+      "following_url": "https://api.github.com/users/carlarsmendes/following{/other_user}",
+      "gists_url": "https://api.github.com/users/carlarsmendes/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/carlarsmendes/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/carlarsmendes/subscriptions",
+      "organizations_url": "https://api.github.com/users/carlarsmendes/orgs",
+      "repos_url": "https://api.github.com/users/carlarsmendes/repos",
+      "events_url": "https://api.github.com/users/carlarsmendes/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/carlarsmendes/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
