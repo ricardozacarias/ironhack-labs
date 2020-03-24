@@ -1,0 +1,735 @@
+"Year","District Code","District Name","Neighborhood Code","Neighborhood Name","Gender","Number"
+"2017","1","Ciutat Vella","1","el Raval","Boys",283
+"2017","1","Ciutat Vella","2","el Barri Gòtic","Boys",56
+"2017","1","Ciutat Vella","3","la Barceloneta","Boys",51
+"2017","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Boys",90
+"2017","2","Eixample","5","el Fort Pienc","Boys",117
+"2017","2","Eixample","6","la Sagrada Família","Boys",207
+"2017","2","Eixample","7","la Dreta de l'Eixample","Boys",185
+"2017","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Boys",176
+"2017","2","Eixample","9","la Nova Esquerra de l'Eixample","Boys",218
+"2017","2","Eixample","10","Sant Antoni","Boys",172
+"2017","3","Sants-Montjuïc","11","el Poble Sec","Boys",156
+"2017","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Boys",4
+"2017","3","Sants-Montjuïc","13","la Marina de Port","Boys",119
+"2017","3","Sants-Montjuïc","14","la Font de la Guatlla","Boys",42
+"2017","3","Sants-Montjuïc","15","Hostafrancs","Boys",78
+"2017","3","Sants-Montjuïc","16","la Bordeta","Boys",81
+"2017","3","Sants-Montjuïc","17","Sants - Badal","Boys",108
+"2017","3","Sants-Montjuïc","18","Sants","Boys",155
+"2017","4","Les Corts","19","les Corts","Boys",199
+"2017","4","Les Corts","20","la Maternitat i Sant Ramon","Boys",101
+"2017","4","Les Corts","21","Pedralbes","Boys",32
+"2017","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Boys",17
+"2017","5","Sarrià-Sant Gervasi","23","Sarrià","Boys",122
+"2017","5","Sarrià-Sant Gervasi","24","les Tres Torres","Boys",74
+"2017","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Boys",104
+"2017","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Boys",206
+"2017","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Boys",127
+"2017","6","Gràcia","28","Vallcarca i els Penitents","Boys",66
+"2017","6","Gràcia","29","el Coll","Boys",26
+"2017","6","Gràcia","30","la Salut","Boys",62
+"2017","6","Gràcia","31","la Vila de Gràcia","Boys",241
+"2017","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Boys",149
+"2017","7","Horta-Guinardó","33","el Baix Guinardó","Boys",97
+"2017","7","Horta-Guinardó","34","Can Baró","Boys",41
+"2017","7","Horta-Guinardó","35","el Guinardó","Boys",148
+"2017","7","Horta-Guinardó","36","la Font d'en Fargues","Boys",26
+"2017","7","Horta-Guinardó","37","el Carmel","Boys",123
+"2017","7","Horta-Guinardó","38","la Teixonera","Boys",48
+"2017","7","Horta-Guinardó","39","Sant Genís dels Agudells","Boys",28
+"2017","7","Horta-Guinardó","40","Montbau","Boys",26
+"2017","7","Horta-Guinardó","41","la Vall d'Hebron","Boys",12
+"2017","7","Horta-Guinardó","42","la Clota","Boys",8
+"2017","7","Horta-Guinardó","43","Horta","Boys",99
+"2017","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Boys",92
+"2017","8","Nou Barris","45","Porta","Boys",104
+"2017","8","Nou Barris","46","el Turó de la Peira","Boys",82
+"2017","8","Nou Barris","47","Can Peguera","Boys",5
+"2017","8","Nou Barris","48","la Guineueta","Boys",47
+"2017","8","Nou Barris","49","Canyelles","Boys",35
+"2017","8","Nou Barris","50","les Roquetes","Boys",88
+"2017","8","Nou Barris","51","Verdun","Boys",50
+"2017","8","Nou Barris","52","la Prosperitat","Boys",127
+"2017","8","Nou Barris","53","la Trinitat Nova","Boys",38
+"2017","8","Nou Barris","54","Torre Baró","Boys",20
+"2017","8","Nou Barris","55","Ciutat Meridiana","Boys",49
+"2017","8","Nou Barris","56","Vallbona","Boys",5
+"2017","9","Sant Andreu","57","la Trinitat Vella","Boys",65
+"2017","9","Sant Andreu","58","Baró de Viver","Boys",11
+"2017","9","Sant Andreu","59","el Bon Pastor","Boys",66
+"2017","9","Sant Andreu","60","Sant Andreu","Boys",227
+"2017","9","Sant Andreu","61","la Sagrera","Boys",132
+"2017","9","Sant Andreu","62","el Congrés i els Indians","Boys",61
+"2017","9","Sant Andreu","63","Navas","Boys",98
+"2017","10","Sant Martí","64","el Camp de l'Arpa del Clot","Boys",148
+"2017","10","Sant Martí","65","el Clot","Boys",125
+"2017","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Boys",79
+"2017","10","Sant Martí","67","la Vila Olímpica del Poblenou","Boys",34
+"2017","10","Sant Martí","68","el Poblenou","Boys",160
+"2017","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Boys",103
+"2017","10","Sant Martí","70","el Besòs i el Maresme","Boys",119
+"2017","10","Sant Martí","71","Provençals del Poblenou","Boys",106
+"2017","10","Sant Martí","72","Sant Martí de Provençals","Boys",100
+"2017","10","Sant Martí","73","la Verneda i la Pau","Boys",122
+"2017","1","Ciutat Vella","1","el Raval","Girls",219
+"2017","1","Ciutat Vella","2","el Barri Gòtic","Girls",53
+"2017","1","Ciutat Vella","3","la Barceloneta","Girls",50
+"2017","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Girls",90
+"2017","2","Eixample","5","el Fort Pienc","Girls",114
+"2017","2","Eixample","6","la Sagrada Família","Girls",183
+"2017","2","Eixample","7","la Dreta de l'Eixample","Girls",159
+"2017","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Girls",164
+"2017","2","Eixample","9","la Nova Esquerra de l'Eixample","Girls",242
+"2017","2","Eixample","10","Sant Antoni","Girls",130
+"2017","3","Sants-Montjuïc","11","el Poble Sec","Girls",174
+"2017","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Girls",8
+"2017","3","Sants-Montjuïc","13","la Marina de Port","Girls",117
+"2017","3","Sants-Montjuïc","14","la Font de la Guatlla","Girls",30
+"2017","3","Sants-Montjuïc","15","Hostafrancs","Girls",64
+"2017","3","Sants-Montjuïc","16","la Bordeta","Girls",75
+"2017","3","Sants-Montjuïc","17","Sants - Badal","Girls",96
+"2017","3","Sants-Montjuïc","18","Sants","Girls",180
+"2017","4","Les Corts","19","les Corts","Girls",175
+"2017","4","Les Corts","20","la Maternitat i Sant Ramon","Girls",105
+"2017","4","Les Corts","21","Pedralbes","Girls",32
+"2017","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Girls",20
+"2017","5","Sarrià-Sant Gervasi","23","Sarrià","Girls",110
+"2017","5","Sarrià-Sant Gervasi","24","les Tres Torres","Girls",61
+"2017","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Girls",95
+"2017","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Girls",199
+"2017","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Girls",138
+"2017","6","Gràcia","28","Vallcarca i els Penitents","Girls",66
+"2017","6","Gràcia","29","el Coll","Girls",25
+"2017","6","Gràcia","30","la Salut","Girls",42
+"2017","6","Gràcia","31","la Vila de Gràcia","Girls",236
+"2017","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Girls",144
+"2017","7","Horta-Guinardó","33","el Baix Guinardó","Girls",93
+"2017","7","Horta-Guinardó","34","Can Baró","Girls",38
+"2017","7","Horta-Guinardó","35","el Guinardó","Girls",170
+"2017","7","Horta-Guinardó","36","la Font d'en Fargues","Girls",33
+"2017","7","Horta-Guinardó","37","el Carmel","Girls",136
+"2017","7","Horta-Guinardó","38","la Teixonera","Girls",41
+"2017","7","Horta-Guinardó","39","Sant Genís dels Agudells","Girls",27
+"2017","7","Horta-Guinardó","40","Montbau","Girls",17
+"2017","7","Horta-Guinardó","41","la Vall d'Hebron","Girls",20
+"2017","7","Horta-Guinardó","42","la Clota","Girls",5
+"2017","7","Horta-Guinardó","43","Horta","Girls",91
+"2017","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Girls",108
+"2017","8","Nou Barris","45","Porta","Girls",117
+"2017","8","Nou Barris","46","el Turó de la Peira","Girls",92
+"2017","8","Nou Barris","47","Can Peguera","Girls",8
+"2017","8","Nou Barris","48","la Guineueta","Girls",40
+"2017","8","Nou Barris","49","Canyelles","Girls",14
+"2017","8","Nou Barris","50","les Roquetes","Girls",83
+"2017","8","Nou Barris","51","Verdun","Girls",48
+"2017","8","Nou Barris","52","la Prosperitat","Girls",124
+"2017","8","Nou Barris","53","la Trinitat Nova","Girls",28
+"2017","8","Nou Barris","54","Torre Baró","Girls",8
+"2017","8","Nou Barris","55","Ciutat Meridiana","Girls",53
+"2017","8","Nou Barris","56","Vallbona","Girls",11
+"2017","9","Sant Andreu","57","la Trinitat Vella","Girls",55
+"2017","9","Sant Andreu","58","Baró de Viver","Girls",13
+"2017","9","Sant Andreu","59","el Bon Pastor","Girls",60
+"2017","9","Sant Andreu","60","Sant Andreu","Girls",232
+"2017","9","Sant Andreu","61","la Sagrera","Girls",100
+"2017","9","Sant Andreu","62","el Congrés i els Indians","Girls",61
+"2017","9","Sant Andreu","63","Navas","Girls",83
+"2017","10","Sant Martí","64","el Camp de l'Arpa del Clot","Girls",159
+"2017","10","Sant Martí","65","el Clot","Girls",82
+"2017","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Girls",74
+"2017","10","Sant Martí","67","la Vila Olímpica del Poblenou","Girls",29
+"2017","10","Sant Martí","68","el Poblenou","Girls",157
+"2017","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Girls",58
+"2017","10","Sant Martí","70","el Besòs i el Maresme","Girls",99
+"2017","10","Sant Martí","71","Provençals del Poblenou","Girls",80
+"2017","10","Sant Martí","72","Sant Martí de Provençals","Girls",98
+"2017","10","Sant Martí","73","la Verneda i la Pau","Girls",107
+"2016","1","Ciutat Vella","1","el Raval","Boys",236
+"2016","1","Ciutat Vella","2","el Barri Gòtic","Boys",53
+"2016","1","Ciutat Vella","3","la Barceloneta","Boys",45
+"2016","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Boys",92
+"2016","2","Eixample","5","el Fort Pienc","Boys",132
+"2016","2","Eixample","6","la Sagrada Família","Boys",192
+"2016","2","Eixample","7","la Dreta de l'Eixample","Boys",177
+"2016","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Boys",159
+"2016","2","Eixample","9","la Nova Esquerra de l'Eixample","Boys",226
+"2016","2","Eixample","10","Sant Antoni","Boys",139
+"2016","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Boys",190
+"2016","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Boys",9
+"2016","3","Sants-Montjuïc","13","la Marina de Port","Boys",122
+"2016","3","Sants-Montjuïc","14","la Font de la Guatlla","Boys",47
+"2016","3","Sants-Montjuïc","15","Hostafrancs","Boys",82
+"2016","3","Sants-Montjuïc","16","la Bordeta","Boys",76
+"2016","3","Sants-Montjuïc","17","Sants - Badal","Boys",86
+"2016","3","Sants-Montjuïc","18","Sants","Boys",202
+"2016","4","Les Corts","19","les Corts","Boys",182
+"2016","4","Les Corts","20","la Maternitat i Sant Ramon","Boys",93
+"2016","4","Les Corts","21","Pedralbes","Boys",35
+"2016","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Boys",16
+"2016","5","Sarrià-Sant Gervasi","23","Sarrià","Boys",116
+"2016","5","Sarrià-Sant Gervasi","24","les Tres Torres","Boys",72
+"2016","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Boys",105
+"2016","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Boys",212
+"2016","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Boys",144
+"2016","6","Gràcia","28","Vallcarca i els Penitents","Boys",68
+"2016","6","Gràcia","29","el Coll","Boys",37
+"2016","6","Gràcia","30","la Salut","Boys",56
+"2016","6","Gràcia","31","la Vila de Gràcia","Boys",251
+"2016","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Boys",174
+"2016","7","Horta-Guinardó","33","el Baix Guinardó","Boys",113
+"2016","7","Horta-Guinardó","34","Can Baró","Boys",27
+"2016","7","Horta-Guinardó","35","el Guinardó","Boys",151
+"2016","7","Horta-Guinardó","36","la Font d'en Fargues","Boys",37
+"2016","7","Horta-Guinardó","37","el Carmel","Boys",146
+"2016","7","Horta-Guinardó","38","la Teixonera","Boys",47
+"2016","7","Horta-Guinardó","39","Sant Genís dels Agudells","Boys",22
+"2016","7","Horta-Guinardó","40","Montbau","Boys",22
+"2016","7","Horta-Guinardó","41","la Vall d'Hebron","Boys",26
+"2016","7","Horta-Guinardó","42","la Clota","Boys",1
+"2016","7","Horta-Guinardó","43","Horta","Boys",110
+"2016","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Boys",85
+"2016","8","Nou Barris","45","Porta","Boys",95
+"2016","8","Nou Barris","46","el Turó de la Peira","Boys",70
+"2016","8","Nou Barris","47","Can Peguera","Boys",7
+"2016","8","Nou Barris","48","la Guineueta","Boys",55
+"2016","8","Nou Barris","49","Canyelles","Boys",25
+"2016","8","Nou Barris","50","les Roquetes","Boys",77
+"2016","8","Nou Barris","51","Verdun","Boys",52
+"2016","8","Nou Barris","52","la Prosperitat","Boys",90
+"2016","8","Nou Barris","53","la Trinitat Nova","Boys",35
+"2016","8","Nou Barris","54","Torre Baró","Boys",11
+"2016","8","Nou Barris","55","Ciutat Meridiana","Boys",50
+"2016","8","Nou Barris","56","Vallbona","Boys",4
+"2016","9","Sant Andreu","57","la Trinitat Vella","Boys",59
+"2016","9","Sant Andreu","58","Baró de Viver","Boys",10
+"2016","9","Sant Andreu","59","el Bon Pastor","Boys",57
+"2016","9","Sant Andreu","60","Sant Andreu","Boys",256
+"2016","9","Sant Andreu","61","la Sagrera","Boys",148
+"2016","9","Sant Andreu","62","el Congrés i els Indians","Boys",70
+"2016","9","Sant Andreu","63","Navas","Boys",100
+"2016","10","Sant Martí","64","el Camp de l'Arpa del Clot","Boys",144
+"2016","10","Sant Martí","65","el Clot","Boys",95
+"2016","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Boys",71
+"2016","10","Sant Martí","67","la Vila Olímpica del Poblenou","Boys",48
+"2016","10","Sant Martí","68","el Poblenou","Boys",197
+"2016","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Boys",91
+"2016","10","Sant Martí","70","el Besòs i el Maresme","Boys",88
+"2016","10","Sant Martí","71","Provençals del Poblenou","Boys",90
+"2016","10","Sant Martí","72","Sant Martí de Provençals","Boys",96
+"2016","10","Sant Martí","73","la Verneda i la Pau","Boys",125
+"2016","99","No consta","99","No consta","Boys",0
+"2016","1","Ciutat Vella","1","el Raval","Girls",217
+"2016","1","Ciutat Vella","2","el Barri Gòtic","Girls",45
+"2016","1","Ciutat Vella","3","la Barceloneta","Girls",47
+"2016","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Girls",80
+"2016","2","Eixample","5","el Fort Pienc","Girls",123
+"2016","2","Eixample","6","la Sagrada Família","Girls",208
+"2016","2","Eixample","7","la Dreta de l'Eixample","Girls",187
+"2016","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Girls",165
+"2016","2","Eixample","9","la Nova Esquerra de l'Eixample","Girls",224
+"2016","2","Eixample","10","Sant Antoni","Girls",136
+"2016","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Girls",183
+"2016","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Girls",7
+"2016","3","Sants-Montjuïc","13","la Marina de Port","Girls",113
+"2016","3","Sants-Montjuïc","14","la Font de la Guatlla","Girls",37
+"2016","3","Sants-Montjuïc","15","Hostafrancs","Girls",71
+"2016","3","Sants-Montjuïc","16","la Bordeta","Girls",66
+"2016","3","Sants-Montjuïc","17","Sants - Badal","Girls",78
+"2016","3","Sants-Montjuïc","18","Sants","Girls",178
+"2016","4","Les Corts","19","les Corts","Girls",181
+"2016","4","Les Corts","20","la Maternitat i Sant Ramon","Girls",91
+"2016","4","Les Corts","21","Pedralbes","Girls",49
+"2016","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Girls",22
+"2016","5","Sarrià-Sant Gervasi","23","Sarrià","Girls",122
+"2016","5","Sarrià-Sant Gervasi","24","les Tres Torres","Girls",78
+"2016","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Girls",98
+"2016","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Girls",203
+"2016","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Girls",138
+"2016","6","Gràcia","28","Vallcarca i els Penitents","Girls",74
+"2016","6","Gràcia","29","el Coll","Girls",39
+"2016","6","Gràcia","30","la Salut","Girls",48
+"2016","6","Gràcia","31","la Vila de Gràcia","Girls",232
+"2016","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Girls",145
+"2016","7","Horta-Guinardó","33","el Baix Guinardó","Girls",104
+"2016","7","Horta-Guinardó","34","Can Baró","Girls",46
+"2016","7","Horta-Guinardó","35","el Guinardó","Girls",173
+"2016","7","Horta-Guinardó","36","la Font d'en Fargues","Girls",37
+"2016","7","Horta-Guinardó","37","el Carmel","Girls",135
+"2016","7","Horta-Guinardó","38","la Teixonera","Girls",48
+"2016","7","Horta-Guinardó","39","Sant Genís dels Agudells","Girls",25
+"2016","7","Horta-Guinardó","40","Montbau","Girls",15
+"2016","7","Horta-Guinardó","41","la Vall d'Hebron","Girls",15
+"2016","7","Horta-Guinardó","42","la Clota","Girls",1
+"2016","7","Horta-Guinardó","43","Horta","Girls",113
+"2016","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Girls",95
+"2016","8","Nou Barris","45","Porta","Girls",122
+"2016","8","Nou Barris","46","el Turó de la Peira","Girls",57
+"2016","8","Nou Barris","47","Can Peguera","Girls",6
+"2016","8","Nou Barris","48","la Guineueta","Girls",63
+"2016","8","Nou Barris","49","Canyelles","Girls",21
+"2016","8","Nou Barris","50","les Roquetes","Girls",82
+"2016","8","Nou Barris","51","Verdun","Girls",62
+"2016","8","Nou Barris","52","la Prosperitat","Girls",115
+"2016","8","Nou Barris","53","la Trinitat Nova","Girls",33
+"2016","8","Nou Barris","54","Torre Baró","Girls",19
+"2016","8","Nou Barris","55","Ciutat Meridiana","Girls",55
+"2016","8","Nou Barris","56","Vallbona","Girls",10
+"2016","9","Sant Andreu","57","la Trinitat Vella","Girls",49
+"2016","9","Sant Andreu","58","Baró de Viver","Girls",17
+"2016","9","Sant Andreu","59","el Bon Pastor","Girls",45
+"2016","9","Sant Andreu","60","Sant Andreu","Girls",230
+"2016","9","Sant Andreu","61","la Sagrera","Girls",108
+"2016","9","Sant Andreu","62","el Congrés i els Indians","Girls",48
+"2016","9","Sant Andreu","63","Navas","Girls",76
+"2016","10","Sant Martí","64","el Camp de l'Arpa del Clot","Girls",162
+"2016","10","Sant Martí","65","el Clot","Girls",95
+"2016","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Girls",66
+"2016","10","Sant Martí","67","la Vila Olímpica del Poblenou","Girls",41
+"2016","10","Sant Martí","68","el Poblenou","Girls",154
+"2016","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Girls",97
+"2016","10","Sant Martí","70","el Besòs i el Maresme","Girls",93
+"2016","10","Sant Martí","71","Provençals del Poblenou","Girls",80
+"2016","10","Sant Martí","72","Sant Martí de Provençals","Girls",90
+"2016","10","Sant Martí","73","la Verneda i la Pau","Girls",111
+"2016","99","No consta","99","No consta","Girls",2
+"2015","1","Ciutat Vella","1","el Raval","Boys",224
+"2015","1","Ciutat Vella","2","el Barri Gòtic","Boys",48
+"2015","1","Ciutat Vella","3","la Barceloneta","Boys",53
+"2015","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Boys",90
+"2015","2","Eixample","5","el Fort Pienc","Boys",141
+"2015","2","Eixample","6","la Sagrada Família","Boys",196
+"2015","2","Eixample","7","la Dreta de l'Eixample","Boys",209
+"2015","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Boys",184
+"2015","2","Eixample","9","la Nova Esquerra de l'Eixample","Boys",234
+"2015","2","Eixample","10","Sant Antoni","Boys",166
+"2015","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Boys",185
+"2015","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Boys",5
+"2015","3","Sants-Montjuïc","13","la Marina de Port","Boys",122
+"2015","3","Sants-Montjuïc","14","la Font de la Guatlla","Boys",36
+"2015","3","Sants-Montjuïc","15","Hostafrancs","Boys",44
+"2015","3","Sants-Montjuïc","16","la Bordeta","Boys",79
+"2015","3","Sants-Montjuïc","17","Sants - Badal","Boys",93
+"2015","3","Sants-Montjuïc","18","Sants","Boys",169
+"2015","4","Les Corts","19","les Corts","Boys",211
+"2015","4","Les Corts","20","la Maternitat i Sant Ramon","Boys",91
+"2015","4","Les Corts","21","Pedralbes","Boys",29
+"2015","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Boys",29
+"2015","5","Sarrià-Sant Gervasi","23","Sarrià","Boys",108
+"2015","5","Sarrià-Sant Gervasi","24","les Tres Torres","Boys",74
+"2015","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Boys",112
+"2015","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Boys",192
+"2015","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Boys",143
+"2015","6","Gràcia","28","Vallcarca i els Penitents","Boys",67
+"2015","6","Gràcia","29","el Coll","Boys",36
+"2015","6","Gràcia","30","la Salut","Boys",39
+"2015","6","Gràcia","31","la Vila de Gràcia","Boys",234
+"2015","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Boys",143
+"2015","7","Horta-Guinardó","33","el Baix Guinardó","Boys",97
+"2015","7","Horta-Guinardó","34","Can Baró","Boys",27
+"2015","7","Horta-Guinardó","35","el Guinardó","Boys",172
+"2015","7","Horta-Guinardó","36","la Font d'en Fargues","Boys",43
+"2015","7","Horta-Guinardó","37","el Carmel","Boys",142
+"2015","7","Horta-Guinardó","38","la Teixonera","Boys",45
+"2015","7","Horta-Guinardó","39","Sant Genís dels Agudells","Boys",18
+"2015","7","Horta-Guinardó","40","Montbau","Boys",17
+"2015","7","Horta-Guinardó","41","la Vall d'Hebron","Boys",24
+"2015","7","Horta-Guinardó","42","la Clota","Boys",6
+"2015","7","Horta-Guinardó","43","Horta","Boys",101
+"2015","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Boys",104
+"2015","8","Nou Barris","45","Porta","Boys",102
+"2015","8","Nou Barris","46","el Turó de la Peira","Boys",69
+"2015","8","Nou Barris","47","Can Peguera","Boys",9
+"2015","8","Nou Barris","48","la Guineueta","Boys",55
+"2015","8","Nou Barris","49","Canyelles","Boys",30
+"2015","8","Nou Barris","50","les Roquetes","Boys",73
+"2015","8","Nou Barris","51","Verdun","Boys",56
+"2015","8","Nou Barris","52","la Prosperitat","Boys",119
+"2015","8","Nou Barris","53","la Trinitat Nova","Boys",45
+"2015","8","Nou Barris","54","Torre Baró","Boys",15
+"2015","8","Nou Barris","55","Ciutat Meridiana","Boys",60
+"2015","8","Nou Barris","56","Vallbona","Boys",5
+"2015","9","Sant Andreu","57","la Trinitat Vella","Boys",48
+"2015","9","Sant Andreu","58","Baró de Viver","Boys",14
+"2015","9","Sant Andreu","59","el Bon Pastor","Boys",58
+"2015","9","Sant Andreu","60","Sant Andreu","Boys",239
+"2015","9","Sant Andreu","61","la Sagrera","Boys",133
+"2015","9","Sant Andreu","62","el Congrés i els Indians","Boys",67
+"2015","9","Sant Andreu","63","Navas","Boys",97
+"2015","10","Sant Martí","64","el Camp de l'Arpa del Clot","Boys",168
+"2015","10","Sant Martí","65","el Clot","Boys",119
+"2015","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Boys",84
+"2015","10","Sant Martí","67","la Vila Olímpica del Poblenou","Boys",46
+"2015","10","Sant Martí","68","el Poblenou","Boys",162
+"2015","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Boys",97
+"2015","10","Sant Martí","70","el Besòs i el Maresme","Boys",97
+"2015","10","Sant Martí","71","Provençals del Poblenou","Boys",95
+"2015","10","Sant Martí","72","Sant Martí de Provençals","Boys",100
+"2015","10","Sant Martí","73","la Verneda i la Pau","Boys",119
+"2015","1","Ciutat Vella","1","el Raval","Girls",207
+"2015","1","Ciutat Vella","2","el Barri Gòtic","Girls",52
+"2015","1","Ciutat Vella","3","la Barceloneta","Girls",46
+"2015","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Girls",76
+"2015","2","Eixample","5","el Fort Pienc","Girls",98
+"2015","2","Eixample","6","la Sagrada Família","Girls",197
+"2015","2","Eixample","7","la Dreta de l'Eixample","Girls",186
+"2015","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Girls",152
+"2015","2","Eixample","9","la Nova Esquerra de l'Eixample","Girls",213
+"2015","2","Eixample","10","Sant Antoni","Girls",167
+"2015","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Girls",170
+"2015","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Girls",8
+"2015","3","Sants-Montjuïc","13","la Marina de Port","Girls",122
+"2015","3","Sants-Montjuïc","14","la Font de la Guatlla","Girls",27
+"2015","3","Sants-Montjuïc","15","Hostafrancs","Girls",62
+"2015","3","Sants-Montjuïc","16","la Bordeta","Girls",89
+"2015","3","Sants-Montjuïc","17","Sants - Badal","Girls",90
+"2015","3","Sants-Montjuïc","18","Sants","Girls",176
+"2015","4","Les Corts","19","les Corts","Girls",175
+"2015","4","Les Corts","20","la Maternitat i Sant Ramon","Girls",107
+"2015","4","Les Corts","21","Pedralbes","Girls",48
+"2015","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Girls",15
+"2015","5","Sarrià-Sant Gervasi","23","Sarrià","Girls",117
+"2015","5","Sarrià-Sant Gervasi","24","les Tres Torres","Girls",65
+"2015","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Girls",98
+"2015","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Girls",219
+"2015","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Girls",141
+"2015","6","Gràcia","28","Vallcarca i els Penitents","Girls",69
+"2015","6","Gràcia","29","el Coll","Girls",22
+"2015","6","Gràcia","30","la Salut","Girls",45
+"2015","6","Gràcia","31","la Vila de Gràcia","Girls",256
+"2015","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Girls",133
+"2015","7","Horta-Guinardó","33","el Baix Guinardó","Girls",96
+"2015","7","Horta-Guinardó","34","Can Baró","Girls",24
+"2015","7","Horta-Guinardó","35","el Guinardó","Girls",150
+"2015","7","Horta-Guinardó","36","la Font d'en Fargues","Girls",34
+"2015","7","Horta-Guinardó","37","el Carmel","Girls",104
+"2015","7","Horta-Guinardó","38","la Teixonera","Girls",40
+"2015","7","Horta-Guinardó","39","Sant Genís dels Agudells","Girls",29
+"2015","7","Horta-Guinardó","40","Montbau","Girls",13
+"2015","7","Horta-Guinardó","41","la Vall d'Hebron","Girls",28
+"2015","7","Horta-Guinardó","42","la Clota","Girls",3
+"2015","7","Horta-Guinardó","43","Horta","Girls",94
+"2015","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Girls",97
+"2015","8","Nou Barris","45","Porta","Girls",92
+"2015","8","Nou Barris","46","el Turó de la Peira","Girls",66
+"2015","8","Nou Barris","47","Can Peguera","Girls",8
+"2015","8","Nou Barris","48","la Guineueta","Girls",53
+"2015","8","Nou Barris","49","Canyelles","Girls",21
+"2015","8","Nou Barris","50","les Roquetes","Girls",86
+"2015","8","Nou Barris","51","Verdun","Girls",61
+"2015","8","Nou Barris","52","la Prosperitat","Girls",104
+"2015","8","Nou Barris","53","la Trinitat Nova","Girls",25
+"2015","8","Nou Barris","54","Torre Baró","Girls",19
+"2015","8","Nou Barris","55","Ciutat Meridiana","Girls",47
+"2015","8","Nou Barris","56","Vallbona","Girls",7
+"2015","9","Sant Andreu","57","la Trinitat Vella","Girls",48
+"2015","9","Sant Andreu","58","Baró de Viver","Girls",16
+"2015","9","Sant Andreu","59","el Bon Pastor","Girls",52
+"2015","9","Sant Andreu","60","Sant Andreu","Girls",243
+"2015","9","Sant Andreu","61","la Sagrera","Girls",93
+"2015","9","Sant Andreu","62","el Congrés i els Indians","Girls",52
+"2015","9","Sant Andreu","63","Navas","Girls",81
+"2015","10","Sant Martí","64","el Camp de l'Arpa del Clot","Girls",154
+"2015","10","Sant Martí","65","el Clot","Girls",91
+"2015","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Girls",79
+"2015","10","Sant Martí","67","la Vila Olímpica del Poblenou","Girls",48
+"2015","10","Sant Martí","68","el Poblenou","Girls",161
+"2015","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Girls",83
+"2015","10","Sant Martí","70","el Besòs i el Maresme","Girls",94
+"2015","10","Sant Martí","71","Provençals del Poblenou","Girls",90
+"2015","10","Sant Martí","72","Sant Martí de Provençals","Girls",107
+"2015","10","Sant Martí","73","la Verneda i la Pau","Girls",106
+"2014","1","Ciutat Vella","1","el Raval","Boys",222
+"2014","1","Ciutat Vella","2","el Barri Gòtic","Boys",36
+"2014","1","Ciutat Vella","3","la Barceloneta","Boys",43
+"2014","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Boys",94
+"2014","2","Eixample","5","el Fort Pienc","Boys",135
+"2014","2","Eixample","6","la Sagrada Família","Boys",224
+"2014","2","Eixample","7","la Dreta de l'Eixample","Boys",194
+"2014","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Boys",157
+"2014","2","Eixample","9","la Nova Esquerra de l'Eixample","Boys",223
+"2014","2","Eixample","10","Sant Antoni","Boys",146
+"2014","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Boys",212
+"2014","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Boys",8
+"2014","3","Sants-Montjuïc","13","la Marina de Port","Boys",116
+"2014","3","Sants-Montjuïc","14","la Font de la Guatlla","Boys",36
+"2014","3","Sants-Montjuïc","15","Hostafrancs","Boys",80
+"2014","3","Sants-Montjuïc","16","la Bordeta","Boys",70
+"2014","3","Sants-Montjuïc","17","Sants - Badal","Boys",88
+"2014","3","Sants-Montjuïc","18","Sants","Boys",196
+"2014","4","Les Corts","19","les Corts","Boys",166
+"2014","4","Les Corts","20","la Maternitat i Sant Ramon","Boys",91
+"2014","4","Les Corts","21","Pedralbes","Boys",40
+"2014","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Boys",22
+"2014","5","Sarrià-Sant Gervasi","23","Sarrià","Boys",152
+"2014","5","Sarrià-Sant Gervasi","24","les Tres Torres","Boys",70
+"2014","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Boys",112
+"2014","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Boys",189
+"2014","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Boys",115
+"2014","6","Gràcia","28","Vallcarca i els Penitents","Boys",73
+"2014","6","Gràcia","29","el Coll","Boys",46
+"2014","6","Gràcia","30","la Salut","Boys",62
+"2014","6","Gràcia","31","la Vila de Gràcia","Boys",226
+"2014","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Boys",134
+"2014","7","Horta-Guinardó","33","el Baix Guinardó","Boys",102
+"2014","7","Horta-Guinardó","34","Can Baró","Boys",32
+"2014","7","Horta-Guinardó","35","el Guinardó","Boys",153
+"2014","7","Horta-Guinardó","36","la Font d'en Fargues","Boys",33
+"2014","7","Horta-Guinardó","37","el Carmel","Boys",152
+"2014","7","Horta-Guinardó","38","la Teixonera","Boys",43
+"2014","7","Horta-Guinardó","39","Sant Genís dels Agudells","Boys",21
+"2014","7","Horta-Guinardó","40","Montbau","Boys",13
+"2014","7","Horta-Guinardó","41","la Vall d'Hebron","Boys",18
+"2014","7","Horta-Guinardó","42","la Clota","Boys",5
+"2014","7","Horta-Guinardó","43","Horta","Boys",92
+"2014","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Boys",110
+"2014","8","Nou Barris","45","Porta","Boys",109
+"2014","8","Nou Barris","46","el Turó de la Peira","Boys",67
+"2014","8","Nou Barris","47","Can Peguera","Boys",8
+"2014","8","Nou Barris","48","la Guineueta","Boys",48
+"2014","8","Nou Barris","49","Canyelles","Boys",29
+"2014","8","Nou Barris","50","les Roquetes","Boys",66
+"2014","8","Nou Barris","51","Verdun","Boys",50
+"2014","8","Nou Barris","52","la Prosperitat","Boys",111
+"2014","8","Nou Barris","53","la Trinitat Nova","Boys",29
+"2014","8","Nou Barris","54","Torre Baró","Boys",12
+"2014","8","Nou Barris","55","Ciutat Meridiana","Boys",48
+"2014","8","Nou Barris","56","Vallbona","Boys",12
+"2014","9","Sant Andreu","57","la Trinitat Vella","Boys",73
+"2014","9","Sant Andreu","58","Baró de Viver","Boys",12
+"2014","9","Sant Andreu","59","el Bon Pastor","Boys",74
+"2014","9","Sant Andreu","60","Sant Andreu","Boys",265
+"2014","9","Sant Andreu","61","la Sagrera","Boys",141
+"2014","9","Sant Andreu","62","el Congrés i els Indians","Boys",65
+"2014","9","Sant Andreu","63","Navas","Boys",83
+"2014","10","Sant Martí","64","el Camp de l'Arpa del Clot","Boys",142
+"2014","10","Sant Martí","65","el Clot","Boys",86
+"2014","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Boys",73
+"2014","10","Sant Martí","67","la Vila Olímpica del Poblenou","Boys",53
+"2014","10","Sant Martí","68","el Poblenou","Boys",195
+"2014","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Boys",87
+"2014","10","Sant Martí","70","el Besòs i el Maresme","Boys",136
+"2014","10","Sant Martí","71","Provençals del Poblenou","Boys",101
+"2014","10","Sant Martí","72","Sant Martí de Provençals","Boys",103
+"2014","10","Sant Martí","73","la Verneda i la Pau","Boys",97
+"2014","1","Ciutat Vella","1","el Raval","Girls",204
+"2014","1","Ciutat Vella","2","el Barri Gòtic","Girls",61
+"2014","1","Ciutat Vella","3","la Barceloneta","Girls",46
+"2014","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Girls",73
+"2014","2","Eixample","5","el Fort Pienc","Girls",123
+"2014","2","Eixample","6","la Sagrada Família","Girls",209
+"2014","2","Eixample","7","la Dreta de l'Eixample","Girls",158
+"2014","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Girls",173
+"2014","2","Eixample","9","la Nova Esquerra de l'Eixample","Girls",224
+"2014","2","Eixample","10","Sant Antoni","Girls",148
+"2014","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Girls",146
+"2014","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Girls",4
+"2014","3","Sants-Montjuïc","13","la Marina de Port","Girls",116
+"2014","3","Sants-Montjuïc","14","la Font de la Guatlla","Girls",37
+"2014","3","Sants-Montjuïc","15","Hostafrancs","Girls",76
+"2014","3","Sants-Montjuïc","16","la Bordeta","Girls",77
+"2014","3","Sants-Montjuïc","17","Sants - Badal","Girls",93
+"2014","3","Sants-Montjuïc","18","Sants","Girls",159
+"2014","4","Les Corts","19","les Corts","Girls",173
+"2014","4","Les Corts","20","la Maternitat i Sant Ramon","Girls",93
+"2014","4","Les Corts","21","Pedralbes","Girls",39
+"2014","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Girls",18
+"2014","5","Sarrià-Sant Gervasi","23","Sarrià","Girls",106
+"2014","5","Sarrià-Sant Gervasi","24","les Tres Torres","Girls",71
+"2014","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Girls",108
+"2014","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Girls",197
+"2014","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Girls",112
+"2014","6","Gràcia","28","Vallcarca i els Penitents","Girls",58
+"2014","6","Gràcia","29","el Coll","Girls",32
+"2014","6","Gràcia","30","la Salut","Girls",36
+"2014","6","Gràcia","31","la Vila de Gràcia","Girls",227
+"2014","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Girls",142
+"2014","7","Horta-Guinardó","33","el Baix Guinardó","Girls",94
+"2014","7","Horta-Guinardó","34","Can Baró","Girls",39
+"2014","7","Horta-Guinardó","35","el Guinardó","Girls",144
+"2014","7","Horta-Guinardó","36","la Font d'en Fargues","Girls",38
+"2014","7","Horta-Guinardó","37","el Carmel","Girls",119
+"2014","7","Horta-Guinardó","38","la Teixonera","Girls",41
+"2014","7","Horta-Guinardó","39","Sant Genís dels Agudells","Girls",18
+"2014","7","Horta-Guinardó","40","Montbau","Girls",8
+"2014","7","Horta-Guinardó","41","la Vall d'Hebron","Girls",17
+"2014","7","Horta-Guinardó","42","la Clota","Girls",5
+"2014","7","Horta-Guinardó","43","Horta","Girls",95
+"2014","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Girls",67
+"2014","8","Nou Barris","45","Porta","Girls",91
+"2014","8","Nou Barris","46","el Turó de la Peira","Girls",77
+"2014","8","Nou Barris","47","Can Peguera","Girls",13
+"2014","8","Nou Barris","48","la Guineueta","Girls",44
+"2014","8","Nou Barris","49","Canyelles","Girls",17
+"2014","8","Nou Barris","50","les Roquetes","Girls",65
+"2014","8","Nou Barris","51","Verdun","Girls",57
+"2014","8","Nou Barris","52","la Prosperitat","Girls",108
+"2014","8","Nou Barris","53","la Trinitat Nova","Girls",37
+"2014","8","Nou Barris","54","Torre Baró","Girls",10
+"2014","8","Nou Barris","55","Ciutat Meridiana","Girls",72
+"2014","8","Nou Barris","56","Vallbona","Girls",8
+"2014","9","Sant Andreu","57","la Trinitat Vella","Girls",54
+"2014","9","Sant Andreu","58","Baró de Viver","Girls",8
+"2014","9","Sant Andreu","59","el Bon Pastor","Girls",65
+"2014","9","Sant Andreu","60","Sant Andreu","Girls",231
+"2014","9","Sant Andreu","61","la Sagrera","Girls",118
+"2014","9","Sant Andreu","62","el Congrés i els Indians","Girls",54
+"2014","9","Sant Andreu","63","Navas","Girls",89
+"2014","10","Sant Martí","64","el Camp de l'Arpa del Clot","Girls",182
+"2014","10","Sant Martí","65","el Clot","Girls",104
+"2014","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Girls",62
+"2014","10","Sant Martí","67","la Vila Olímpica del Poblenou","Girls",37
+"2014","10","Sant Martí","68","el Poblenou","Girls",157
+"2014","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Girls",87
+"2014","10","Sant Martí","70","el Besòs i el Maresme","Girls",87
+"2014","10","Sant Martí","71","Provençals del Poblenou","Girls",109
+"2014","10","Sant Martí","72","Sant Martí de Provençals","Girls",98
+"2014","10","Sant Martí","73","la Verneda i la Pau","Girls",104
+"2013","1","Ciutat Vella","1","el Raval","Boys",210
+"2013","1","Ciutat Vella","2","el Barri Gòtic","Boys",49
+"2013","1","Ciutat Vella","3","la Barceloneta","Boys",51
+"2013","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Boys",93
+"2013","2","Eixample","5","el Fort Pienc","Boys",125
+"2013","2","Eixample","6","la Sagrada Família","Boys",164
+"2013","2","Eixample","7","la Dreta de l'Eixample","Boys",192
+"2013","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Boys",170
+"2013","2","Eixample","9","la Nova Esquerra de l'Eixample","Boys",192
+"2013","2","Eixample","10","Sant Antoni","Boys",155
+"2013","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Boys",198
+"2013","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Boys",7
+"2013","3","Sants-Montjuïc","13","la Marina de Port","Boys",124
+"2013","3","Sants-Montjuïc","14","la Font de la Guatlla","Boys",38
+"2013","3","Sants-Montjuïc","15","Hostafrancs","Boys",80
+"2013","3","Sants-Montjuïc","16","la Bordeta","Boys",60
+"2013","3","Sants-Montjuïc","17","Sants - Badal","Boys",86
+"2013","3","Sants-Montjuïc","18","Sants","Boys",181
+"2013","4","Les Corts","19","les Corts","Boys",165
+"2013","4","Les Corts","20","la Maternitat i Sant Ramon","Boys",94
+"2013","4","Les Corts","21","Pedralbes","Boys",34
+"2013","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Boys",29
+"2013","5","Sarrià-Sant Gervasi","23","Sarrià","Boys",139
+"2013","5","Sarrià-Sant Gervasi","24","les Tres Torres","Boys",75
+"2013","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Boys",100
+"2013","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Boys",186
+"2013","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Boys",150
+"2013","6","Gràcia","28","Vallcarca i els Penitents","Boys",64
+"2013","6","Gràcia","29","el Coll","Boys",29
+"2013","6","Gràcia","30","la Salut","Boys",59
+"2013","6","Gràcia","31","la Vila de Gràcia","Boys",244
+"2013","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Boys",146
+"2013","7","Horta-Guinardó","33","el Baix Guinardó","Boys",101
+"2013","7","Horta-Guinardó","34","Can Baró","Boys",28
+"2013","7","Horta-Guinardó","35","el Guinardó","Boys",142
+"2013","7","Horta-Guinardó","36","la Font d'en Fargues","Boys",30
+"2013","7","Horta-Guinardó","37","el Carmel","Boys",143
+"2013","7","Horta-Guinardó","38","la Teixonera","Boys",49
+"2013","7","Horta-Guinardó","39","Sant Genís dels Agudells","Boys",28
+"2013","7","Horta-Guinardó","40","Montbau","Boys",6
+"2013","7","Horta-Guinardó","41","la Vall d'Hebron","Boys",25
+"2013","7","Horta-Guinardó","42","la Clota","Boys",8
+"2013","7","Horta-Guinardó","43","Horta","Boys",105
+"2013","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Boys",101
+"2013","8","Nou Barris","45","Porta","Boys",112
+"2013","8","Nou Barris","46","el Turó de la Peira","Boys",77
+"2013","8","Nou Barris","47","Can Peguera","Boys",6
+"2013","8","Nou Barris","48","la Guineueta","Boys",50
+"2013","8","Nou Barris","49","Canyelles","Boys",27
+"2013","8","Nou Barris","50","les Roquetes","Boys",80
+"2013","8","Nou Barris","51","Verdun","Boys",46
+"2013","8","Nou Barris","52","la Prosperitat","Boys",101
+"2013","8","Nou Barris","53","la Trinitat Nova","Boys",30
+"2013","8","Nou Barris","54","Torre Baró","Boys",14
+"2013","8","Nou Barris","55","Ciutat Meridiana","Boys",62
+"2013","8","Nou Barris","56","Vallbona","Boys",7
+"2013","9","Sant Andreu","57","la Trinitat Vella","Boys",65
+"2013","9","Sant Andreu","58","Baró de Viver","Boys",5
+"2013","9","Sant Andreu","59","el Bon Pastor","Boys",61
+"2013","9","Sant Andreu","60","Sant Andreu","Boys",257
+"2013","9","Sant Andreu","61","la Sagrera","Boys",132
+"2013","9","Sant Andreu","62","el Congrés i els Indians","Boys",69
+"2013","9","Sant Andreu","63","Navas","Boys",85
+"2013","10","Sant Martí","64","el Camp de l'Arpa del Clot","Boys",166
+"2013","10","Sant Martí","65","el Clot","Boys",97
+"2013","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Boys",67
+"2013","10","Sant Martí","67","la Vila Olímpica del Poblenou","Boys",42
+"2013","10","Sant Martí","68","el Poblenou","Boys",170
+"2013","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Boys",105
+"2013","10","Sant Martí","70","el Besòs i el Maresme","Boys",102
+"2013","10","Sant Martí","71","Provençals del Poblenou","Boys",119
+"2013","10","Sant Martí","72","Sant Martí de Provençals","Boys",114
+"2013","10","Sant Martí","73","la Verneda i la Pau","Boys",108
+"2013","99","No consta","99","No consta","Boys",7
+"2013","1","Ciutat Vella","1","el Raval","Girls",213
+"2013","1","Ciutat Vella","2","el Barri Gòtic","Girls",45
+"2013","1","Ciutat Vella","3","la Barceloneta","Girls",54
+"2013","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera","Girls",76
+"2013","2","Eixample","5","el Fort Pienc","Girls",130
+"2013","2","Eixample","6","la Sagrada Família","Girls",179
+"2013","2","Eixample","7","la Dreta de l'Eixample","Girls",177
+"2013","2","Eixample","8","l'Antiga Esquerra de l'Eixample","Girls",159
+"2013","2","Eixample","9","la Nova Esquerra de l'Eixample","Girls",186
+"2013","2","Eixample","10","Sant Antoni","Girls",136
+"2013","3","Sants-Montjuïc","11","el Poble Sec - Parc Montjuïc","Girls",147
+"2013","3","Sants-Montjuïc","12","la Marina del Prat Vermell","Girls",3
+"2013","3","Sants-Montjuïc","13","la Marina de Port","Girls",125
+"2013","3","Sants-Montjuïc","14","la Font de la Guatlla","Girls",44
+"2013","3","Sants-Montjuïc","15","Hostafrancs","Girls",75
+"2013","3","Sants-Montjuïc","16","la Bordeta","Girls",53
+"2013","3","Sants-Montjuïc","17","Sants - Badal","Girls",100
+"2013","3","Sants-Montjuïc","18","Sants","Girls",153
+"2013","4","Les Corts","19","les Corts","Girls",186
+"2013","4","Les Corts","20","la Maternitat i Sant Ramon","Girls",79
+"2013","4","Les Corts","21","Pedralbes","Girls",31
+"2013","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes","Girls",18
+"2013","5","Sarrià-Sant Gervasi","23","Sarrià","Girls",117
+"2013","5","Sarrià-Sant Gervasi","24","les Tres Torres","Girls",70
+"2013","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova","Girls",92
+"2013","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany","Girls",197
+"2013","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró","Girls",133
+"2013","6","Gràcia","28","Vallcarca i els Penitents","Girls",63
+"2013","6","Gràcia","29","el Coll","Girls",28
+"2013","6","Gràcia","30","la Salut","Girls",37
+"2013","6","Gràcia","31","la Vila de Gràcia","Girls",219
+"2013","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova","Girls",113
+"2013","7","Horta-Guinardó","33","el Baix Guinardó","Girls",96
+"2013","7","Horta-Guinardó","34","Can Baró","Girls",42
+"2013","7","Horta-Guinardó","35","el Guinardó","Girls",170
+"2013","7","Horta-Guinardó","36","la Font d'en Fargues","Girls",32
+"2013","7","Horta-Guinardó","37","el Carmel","Girls",126
+"2013","7","Horta-Guinardó","38","la Teixonera","Girls",52
+"2013","7","Horta-Guinardó","39","Sant Genís dels Agudells","Girls",27
+"2013","7","Horta-Guinardó","40","Montbau","Girls",17
+"2013","7","Horta-Guinardó","41","la Vall d'Hebron","Girls",15
+"2013","7","Horta-Guinardó","42","la Clota","Girls",1
+"2013","7","Horta-Guinardó","43","Horta","Girls",102
+"2013","8","Nou Barris","44","Vilapicina i la Torre Llobeta","Girls",96
+"2013","8","Nou Barris","45","Porta","Girls",121
+"2013","8","Nou Barris","46","el Turó de la Peira","Girls",66
+"2013","8","Nou Barris","47","Can Peguera","Girls",8
+"2013","8","Nou Barris","48","la Guineueta","Girls",53
+"2013","8","Nou Barris","49","Canyelles","Girls",16
+"2013","8","Nou Barris","50","les Roquetes","Girls",75
+"2013","8","Nou Barris","51","Verdun","Girls",57
+"2013","8","Nou Barris","52","la Prosperitat","Girls",101
+"2013","8","Nou Barris","53","la Trinitat Nova","Girls",25
+"2013","8","Nou Barris","54","Torre Baró","Girls",19
+"2013","8","Nou Barris","55","Ciutat Meridiana","Girls",37
+"2013","8","Nou Barris","56","Vallbona","Girls",10
+"2013","9","Sant Andreu","57","la Trinitat Vella","Girls",68
+"2013","9","Sant Andreu","58","Baró de Viver","Girls",13
+"2013","9","Sant Andreu","59","el Bon Pastor","Girls",63
+"2013","9","Sant Andreu","60","Sant Andreu","Girls",233
+"2013","9","Sant Andreu","61","la Sagrera","Girls",125
+"2013","9","Sant Andreu","62","el Congrés i els Indians","Girls",56
+"2013","9","Sant Andreu","63","Navas","Girls",81
+"2013","10","Sant Martí","64","el Camp de l'Arpa del Clot","Girls",155
+"2013","10","Sant Martí","65","el Clot","Girls",96
+"2013","10","Sant Martí","66","el Parc i la Llacuna del Poblenou","Girls",64
+"2013","10","Sant Martí","67","la Vila Olímpica del Poblenou","Girls",54
+"2013","10","Sant Martí","68","el Poblenou","Girls",160
+"2013","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou","Girls",97
+"2013","10","Sant Martí","70","el Besòs i el Maresme","Girls",93
+"2013","10","Sant Martí","71","Provençals del Poblenou","Girls",95
+"2013","10","Sant Martí","72","Sant Martí de Provençals","Girls",97
+"2013","10","Sant Martí","73","la Verneda i la Pau","Girls",94
+"2013","99","No consta","99","No consta","Girls",2

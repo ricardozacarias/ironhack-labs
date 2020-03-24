@@ -1,0 +1,41 @@
+"from","to","weight"
+"Abroad","Barcelona",53085
+"Andalusia","Barcelona",2416
+"Aragon","Barcelona",811
+"Asturias","Barcelona",323
+"Balearic Islands","Barcelona",1634
+"Barcelona","Abroad",5485
+"Barcelona","Andalusia",1596
+"Barcelona","Aragon",745
+"Barcelona","Asturias",204
+"Barcelona","Balearic Islands",1428
+"Barcelona","Basque Country",475
+"Barcelona","Canary Islands",789
+"Barcelona","Cantabria",132
+"Barcelona","Castile and León",517
+"Barcelona","Castilla-La Mancha",347
+"Barcelona","Catalonia",35036
+"Barcelona","Ceuta",12
+"Barcelona","Community of Madrid",2647
+"Barcelona","Extremadura",201
+"Barcelona","Galicia",795
+"Barcelona","La Rioja",72
+"Barcelona","Melilla",27
+"Barcelona","Navarre",186
+"Barcelona","Region of Murcia",243
+"Barcelona","Valencian Community",1711
+"Basque Country","Barcelona",710
+"Canary Islands","Barcelona",863
+"Cantabria","Barcelona",162
+"Castile and León","Barcelona",814
+"Castilla-La Mancha","Barcelona",445
+"Catalonia","Barcelona",28779
+"Ceuta","Barcelona",24
+"Community of Madrid","Barcelona",2942
+"Extremadura","Barcelona",240
+"Galicia","Barcelona",983
+"La Rioja","Barcelona",129
+"Melilla","Barcelona",60
+"Navarre","Barcelona",246
+"Region of Murcia","Barcelona",354
+"Valencian Community","Barcelona",2305

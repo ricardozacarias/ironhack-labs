@@ -1,0 +1,1101 @@
+"Order","Name","Gender","Decade","Frequency"
+1,"MARIA","Female","Before 1930",2085
+2,"CARMEN","Female","Before 1930",1463
+3,"JOSEFA","Female","Before 1930",1032
+4,"MONTSERRAT","Female","Before 1930",879
+5,"ROSA","Female","Before 1930",762
+6,"TERESA","Female","Before 1930",734
+7,"PILAR","Female","Before 1930",694
+8,"DOLORES","Female","Before 1930",679
+9,"MERCEDES","Female","Before 1930",603
+10,"FRANCISCA","Female","Before 1930",596
+11,"ANTONIA","Female","Before 1930",573
+12,"ISABEL","Female","Before 1930",544
+13,"CONCEPCION","Female","Before 1930",522
+14,"NURIA","Female","Before 1930",404
+15,"ANA","Female","Before 1930",350
+16,"JUANA","Female","Before 1930",315
+17,"M TERESA","Female","Before 1930",292
+18,"ROSARIO","Female","Before 1930",266
+19,"M ROSA","Female","Before 1930",245
+20,"JOSEFINA","Female","Before 1930",231
+21,"JULIA","Female","Before 1930",215
+22,"M CARMEN","Female","Before 1930",215
+23,"M DOLORES","Female","Before 1930",213
+24,"ANGELA","Female","Before 1930",209
+25,"MANUELA","Female","Before 1930",205
+26,"ANGELES","Female","Before 1930",202
+27,"MARGARITA","Female","Before 1930",198
+28,"EMILIA","Female","Before 1930",188
+29,"CARME","Female","Before 1930",185
+30,"M LUISA","Female","Before 1930",185
+31,"MERCE","Female","Before 1930",181
+32,"AMPARO","Female","Before 1930",171
+33,"LUISA","Female","Before 1930",157
+34,"ASUNCION","Female","Before 1930",151
+35,"ENCARNACIO","Female","Before 1930",147
+36,"RAMONA","Female","Before 1930",144
+37,"CONSUELO","Female","Before 1930",141
+38,"MATILDE","Female","Before 1930",134
+39,"M PILAR","Female","Before 1930",133
+40,"ELVIRA","Female","Before 1930",132
+41,"JOAQUINA","Female","Before 1930",132
+42,"AURORA","Female","Before 1930",131
+43,"VICTORIA","Female","Before 1930",129
+44,"VICENTA","Female","Before 1930",125
+45,"DOLORS","Female","Before 1930",122
+46,"ENRIQUETA","Female","Before 1930",121
+47,"ELENA","Female","Before 1930",118
+48,"MAGDALENA","Female","Before 1930",116
+49,"FELISA","Female","Before 1930",109
+50,"TRINIDAD","Female","Before 1930",107
+1,"MARIA","Female","1930",3839
+2,"CARMEN","Female","1930",3248
+3,"JOSEFA","Female","1930",2251
+4,"MONTSERRAT","Female","1930",1804
+5,"ROSA","Female","1930",1565
+6,"PILAR","Female","1930",1555
+7,"DOLORES","Female","1930",1431
+8,"ISABEL","Female","1930",1371
+9,"FRANCISCA","Female","1930",1361
+10,"ANTONIA","Female","1930",1316
+11,"TERESA","Female","1930",1291
+12,"MERCEDES","Female","1930",1244
+13,"NURIA","Female","1930",1066
+14,"CONCEPCION","Female","1930",1048
+15,"M TERESA","Female","1930",917
+16,"M CARMEN","Female","1930",891
+17,"M ROSA","Female","1930",827
+18,"ANA","Female","1930",823
+19,"JUANA","Female","1930",821
+20,"ROSARIO","Female","1930",743
+21,"MANUELA","Female","1930",586
+22,"M DOLORES","Female","1930",556
+23,"M LUISA","Female","1930",533
+24,"JOSEFINA","Female","1930",513
+25,"ANGELES","Female","1930",510
+26,"MARGARITA","Female","1930",487
+27,"M PILAR","Female","1930",468
+28,"JULIA","Female","1930",416
+29,"ANGELA","Female","1930",414
+30,"LUISA","Female","1930",395
+31,"CONSUELO","Female","1930",385
+32,"ENCARNACIO","Female","1930",366
+33,"EMILIA","Female","1930",362
+34,"AMPARO","Female","1930",354
+35,"AURORA","Female","1930",348
+36,"ANA MARIA","Female","1930",334
+37,"ROSER","Female","1930",333
+38,"ELENA","Female","1930",328
+39,"MERCE","Female","1930",324
+40,"CARME","Female","1930",314
+41,"VICTORIA","Female","1930",310
+42,"M ANGELES","Female","1930",305
+43,"JOAQUINA","Female","1930",277
+44,"RAMONA","Female","1930",275
+45,"ENCARNACION","Female","1930",270
+46,"MAGDALENA","Female","1930",267
+47,"ASUNCION","Female","1930",265
+48,"GLORIA","Female","1930",262
+49,"ENRIQUETA","Female","1930",259
+50,"MATILDE","Female","1930",244
+1,"CARMEN","Female","1940",3038
+2,"M CARMEN","Female","1940",2869
+3,"MARIA","Female","1940",2713
+4,"MONTSERRAT","Female","1940",2585
+5,"JOSEFA","Female","1940",2130
+6,"M TERESA","Female","1940",2005
+7,"PILAR","Female","1940",1793
+8,"ISABEL","Female","1940",1770
+9,"MERCEDES","Female","1940",1504
+10,"FRANCISCA","Female","1940",1474
+11,"ROSA","Female","1940",1385
+12,"DOLORES","Female","1940",1300
+13,"ANTONIA","Female","1940",1299
+14,"CONCEPCION","Female","1940",1277
+15,"M ROSA","Female","1940",1204
+16,"TERESA","Female","1940",1190
+17,"M DOLORES","Female","1940",1151
+18,"M PILAR","Female","1940",1148
+19,"M LUISA","Female","1940",987
+20,"JUANA","Female","1940",892
+21,"ANA","Female","1940",889
+22,"M ANGELES","Female","1940",836
+23,"ANA MARIA","Female","1940",822
+24,"NURIA","Female","1940",817
+25,"MARGARITA","Female","1940",779
+26,"ROSARIO","Female","1940",754
+27,"M ISABEL","Female","1940",752
+28,"JOSEFINA","Female","1940",744
+29,"MANUELA","Female","1940",718
+30,"ROSA MARIA","Female","1940",618
+31,"GLORIA","Female","1940",560
+32,"ANGELES","Female","1940",549
+33,"ANA M","Female","1940",544
+34,"ROSA M","Female","1940",472
+35,"JULIA","Female","1940",465
+36,"MERCE","Female","1940",453
+37,"ANGELA","Female","1940",439
+38,"MARTA","Female","1940",415
+39,"ENCARNACIO","Female","1940",406
+40,"ELENA","Female","1940",403
+41,"AMPARO","Female","1940",399
+42,"CONSUELO","Female","1940",397
+43,"EMILIA","Female","1940",396
+44,"M ANTONIA","Female","1940",379
+45,"M JOSEFA","Female","1940",377
+46,"MARIA CARMEN","Female","1940",365
+47,"MAGDALENA","Female","1940",356
+48,"MARIA TERESA","Female","1940",355
+49,"LUISA","Female","1940",352
+50,"ALICIA","Female","1940",331
+1,"MONTSERRAT","Female","1950",3929
+2,"M CARMEN","Female","1950",3256
+3,"CARMEN","Female","1950",2317
+4,"M TERESA","Female","1950",2129
+5,"ISABEL","Female","1950",1857
+6,"MARIA","Female","1950",1710
+7,"MERCEDES","Female","1950",1524
+8,"JOSEFA","Female","1950",1468
+9,"NURIA","Female","1950",1457
+10,"M DOLORES","Female","1950",1417
+11,"PILAR","Female","1950",1365
+12,"M ISABEL","Female","1950",1270
+13,"M PILAR","Female","1950",1247
+14,"ANA MARIA","Female","1950",1232
+15,"M ANGELES","Female","1950",1148
+16,"FRANCISCA","Female","1950",1101
+17,"ROSA MARIA","Female","1950",1091
+18,"ANTONIA","Female","1950",1068
+19,"ROSA","Female","1950",1052
+20,"CONCEPCION","Female","1950",1030
+21,"MARGARITA","Female","1950",991
+22,"TERESA","Female","1950",967
+23,"DOLORES","Female","1950",949
+24,"ANA","Female","1950",941
+25,"M LUISA","Female","1950",926
+26,"M ROSA","Female","1950",917
+27,"MARTA","Female","1950",735
+28,"JUANA","Female","1950",671
+29,"MANUELA","Female","1950",654
+30,"ROSA M","Female","1950",637
+31,"ROSARIO","Female","1950",630
+32,"GLORIA","Female","1950",622
+33,"ANA M","Female","1950",618
+34,"JOSEFINA","Female","1950",566
+35,"M JOSE","Female","1950",556
+36,"ELENA","Female","1950",531
+37,"MARIA CARMEN","Female","1950",529
+38,"MERCE","Female","1950",527
+39,"M JESUS","Female","1950",482
+40,"MARIA TERESA","Female","1950",482
+41,"M MERCEDES","Female","1950",461
+42,"LAURA","Female","1950",451
+43,"ESTHER","Female","1950",445
+44,"ANGELES","Female","1950",443
+45,"ALICIA","Female","1950",431
+46,"M ANTONIA","Female","1950",412
+47,"JULIA","Female","1950",408
+48,"CRISTINA","Female","1950",365
+49,"ROSER","Female","1950",365
+50,"M DOLORS","Female","1950",362
+1,"MONTSERRAT","Female","1960",4267
+2,"NURIA","Female","1960",2536
+3,"M CARMEN","Female","1960",2446
+4,"MARTA","Female","1960",2083
+5,"CRISTINA","Female","1960",1860
+6,"SILVIA","Female","1960",1637
+7,"ANA MARIA","Female","1960",1600
+8,"ISABEL","Female","1960",1532
+9,"M TERESA","Female","1960",1523
+10,"MERCEDES","Female","1960",1438
+11,"CARMEN","Female","1960",1234
+12,"ROSA MARIA","Female","1960",1158
+13,"M ISABEL","Female","1960",1145
+14,"ANA","Female","1960",1118
+15,"ESTHER","Female","1960",1095
+16,"OLGA","Female","1960",1068
+17,"M PILAR","Female","1960",1060
+18,"MARIA","Female","1960",1060
+19,"M DOLORES","Female","1960",1050
+20,"M JOSE","Female","1960",1036
+21,"M ANGELES","Female","1960",1016
+22,"LAURA","Female","1960",1001
+23,"YOLANDA","Female","1960",900
+24,"SUSANA","Female","1960",884
+25,"PILAR","Female","1960",862
+26,"GEMMA","Female","1960",851
+27,"EVA","Female","1960",827
+28,"JOSEFA","Female","1960",753
+29,"MARGARITA","Female","1960",743
+30,"ELENA","Female","1960",731
+31,"MONICA","Female","1960",727
+32,"ROSA","Female","1960",695
+33,"FRANCISCA","Female","1960",685
+34,"ANTONIA","Female","1960",652
+35,"ANNA","Female","1960",623
+36,"ANA M","Female","1960",607
+37,"CONCEPCION","Female","1960",604
+38,"M LUISA","Female","1960",603
+39,"M ROSA","Female","1960",596
+40,"MARIA CARMEN","Female","1960",587
+41,"ALICIA","Female","1960",569
+42,"TERESA","Female","1960",564
+43,"GLORIA","Female","1960",535
+44,"MARIA TERESA","Female","1960",526
+45,"DOLORES","Female","1960",523
+46,"ROSA M","Female","1960",517
+47,"M MERCEDES","Female","1960",514
+48,"LOURDES","Female","1960",493
+49,"M JESUS","Female","1960",477
+50,"MERCE","Female","1960",473
+1,"MARTA","Female","1970",3268
+2,"CRISTINA","Female","1970",2745
+3,"MONICA","Female","1970",2561
+4,"SILVIA","Female","1970",2136
+5,"LAURA","Female","1970",2076
+6,"NURIA","Female","1970",2044
+7,"MONTSERRAT","Female","1970",2043
+8,"SONIA","Female","1970",2031
+9,"EVA","Female","1970",1944
+10,"SANDRA","Female","1970",1901
+11,"SUSANA","Female","1970",1682
+12,"YOLANDA","Female","1970",1480
+13,"RAQUEL","Female","1970",1386
+14,"GEMMA","Female","1970",1384
+15,"ANNA","Female","1970",1270
+16,"ESTHER","Female","1970",1190
+17,"MARIA","Female","1970",1169
+18,"ANA","Female","1970",1146
+19,"MIREIA","Female","1970",1103
+20,"OLGA","Female","1970",1049
+21,"ANA MARIA","Female","1970",980
+22,"ELENA","Female","1970",942
+23,"CAROLINA","Female","1970",793
+24,"NATALIA","Female","1970",783
+25,"PATRICIA","Female","1970",758
+26,"M CARMEN","Female","1970",756
+27,"ISABEL","Female","1970",747
+28,"ELISABET","Female","1970",625
+29,"MERITXELL","Female","1970",619
+30,"SARA","Female","1970",599
+31,"BEATRIZ","Female","1970",585
+32,"NOEMI","Female","1970",557
+33,"VANESSA","Female","1970",551
+34,"MIRIAM","Female","1970",538
+35,"LAIA","Female","1970",535
+36,"EVA MARIA","Female","1970",520
+37,"M JOSE","Female","1970",519
+38,"MERCEDES","Female","1970",509
+39,"M TERESA","Female","1970",492
+40,"ALICIA","Female","1970",487
+41,"ROSA MARIA","Female","1970",470
+42,"M ISABEL","Female","1970",443
+43,"ESTER","Female","1970",433
+44,"CARMEN","Female","1970",427
+45,"LIDIA","Female","1970",409
+46,"MARIA TERESA","Female","1970",409
+47,"VERONICA","Female","1970",401
+48,"IRENE","Female","1970",399
+49,"RUTH","Female","1970",387
+50,"MARIA JOSE","Female","1970",365
+1,"LAURA","Female","1980",2845
+2,"MARTA","Female","1980",2780
+3,"CRISTINA","Female","1980",2405
+4,"ANNA","Female","1980",1895
+5,"MARIA","Female","1980",1752
+6,"NURIA","Female","1980",1314
+7,"SILVIA","Female","1980",1159
+8,"ANA","Female","1980",1146
+9,"PATRICIA","Female","1980",1144
+10,"MIREIA","Female","1980",1125
+11,"SARA","Female","1980",1122
+12,"RAQUEL","Female","1980",1093
+13,"ALBA","Female","1980",972
+14,"ELENA","Female","1980",914
+15,"SANDRA","Female","1980",884
+16,"LAIA","Female","1980",861
+17,"MIRIAM","Female","1980",815
+18,"EVA","Female","1980",743
+19,"NATALIA","Female","1980",739
+20,"MONICA","Female","1980",716
+21,"IRENE","Female","1980",710
+22,"CAROLINA","Female","1980",705
+23,"SONIA","Female","1980",672
+24,"ANDREA","Female","1980",653
+25,"GEMMA","Female","1980",638
+26,"MARINA","Female","1980",637
+27,"VANESSA","Female","1980",635
+28,"VERONICA","Female","1980",629
+29,"ELISABET","Female","1980",622
+30,"BEATRIZ","Female","1980",615
+31,"JESSICA","Female","1980",603
+32,"MONTSERRAT","Female","1980",592
+33,"LORENA","Female","1980",541
+34,"ESTHER","Female","1980",525
+35,"CARLA","Female","1980",517
+36,"PAULA","Female","1980",478
+37,"ANA MARIA","Female","1980",476
+38,"CLARA","Female","1980",470
+39,"ALEXANDRA","Female","1980",441
+40,"ISABEL","Female","1980",412
+41,"SUSANA","Female","1980",412
+42,"MERITXELL","Female","1980",397
+43,"OLGA","Female","1980",396
+44,"JULIA","Female","1980",379
+45,"CLAUDIA","Female","1980",370
+46,"ESTER","Female","1980",370
+47,"LUCIA","Female","1980",365
+48,"NOELIA","Female","1980",346
+49,"DIANA","Female","1980",341
+50,"HELENA","Female","1980",340
+1,"LAURA","Female","1990",2329
+2,"MARIA","Female","1990",2073
+3,"MARTA","Female","1990",1947
+4,"ANNA","Female","1990",1677
+5,"ANDREA","Female","1990",1550
+6,"CRISTINA","Female","1990",1355
+7,"PAULA","Female","1990",1150
+8,"SARA","Female","1990",1121
+9,"ALBA","Female","1990",1050
+10,"CARLA","Female","1990",967
+11,"LAIA","Female","1990",937
+12,"JULIA","Female","1990",927
+13,"CLAUDIA","Female","1990",892
+14,"MIREIA","Female","1990",861
+15,"MARINA","Female","1990",841
+16,"NURIA","Female","1990",804
+17,"ANA","Female","1990",741
+18,"SANDRA","Female","1990",711
+19,"IRENE","Female","1990",698
+20,"PATRICIA","Female","1990",691
+21,"CLARA","Female","1990",682
+22,"ARIADNA","Female","1990",637
+23,"RAQUEL","Female","1990",605
+24,"JUDIT","Female","1990",582
+25,"ELENA","Female","1990",536
+26,"SILVIA","Female","1990",535
+27,"BERTA","Female","1990",505
+28,"NATALIA","Female","1990",503
+29,"MONICA","Female","1990",473
+30,"MIRIAM","Female","1990",467
+31,"HELENA","Female","1990",439
+32,"GEMMA","Female","1990",394
+33,"EVA","Female","1990",378
+34,"JUDITH","Female","1990",377
+35,"CARLOTA","Female","1990",360
+36,"CAROLINA","Female","1990",349
+37,"SONIA","Female","1990",341
+38,"BLANCA","Female","1990",324
+39,"AINA","Female","1990",321
+40,"MAR","Female","1990",311
+41,"LORENA","Female","1990",296
+42,"INES","Female","1990",289
+43,"BEATRIZ","Female","1990",279
+44,"SOFIA","Female","1990",277
+45,"ADRIANA","Female","1990",274
+46,"NEREA","Female","1990",260
+47,"ELISABET","Female","1990",253
+48,"ALEXANDRA","Female","1990",250
+49,"NOELIA","Female","1990",239
+50,"GEORGINA","Female","1990",236
+1,"MARIA","Female","2000",1862
+2,"PAULA","Female","2000",1522
+3,"LAIA","Female","2000",1470
+4,"JULIA","Female","2000",1381
+5,"CARLA","Female","2000",1291
+6,"LAURA","Female","2000",1185
+7,"LUCIA","Female","2000",1089
+8,"CLAUDIA","Female","2000",1086
+9,"MARTA","Female","2000",1057
+10,"ANNA","Female","2000",1056
+11,"ALBA","Female","2000",1021
+12,"MARTINA","Female","2000",989
+13,"SARA","Female","2000",886
+14,"ANDREA","Female","2000",819
+15,"MARINA","Female","2000",714
+16,"ARIADNA","Female","2000",709
+17,"AINA","Female","2000",681
+18,"BERTA","Female","2000",679
+19,"MIREIA","Female","2000",630
+20,"CLARA","Female","2000",610
+21,"IRENE","Female","2000",549
+22,"SOFIA","Female","2000",543
+23,"CRISTINA","Female","2000",531
+24,"NURIA","Female","2000",527
+25,"MAR","Female","2000",505
+26,"CARLOTA","Female","2000",500
+27,"EMMA","Female","2000",488
+28,"JANA","Female","2000",473
+29,"ANA","Female","2000",449
+30,"NATALIA","Female","2000",408
+31,"INES","Female","2000",390
+32,"NEREA","Female","2000",390
+33,"MARIONA","Female","2000",382
+34,"AINHOA","Female","2000",381
+35,"JUDITH","Female","2000",376
+36,"JUDIT","Female","2000",374
+37,"NOA","Female","2000",373
+38,"BLANCA","Female","2000",352
+39,"ONA","Female","2000",335
+40,"HELENA","Female","2000",325
+41,"ELENA","Female","2000",324
+42,"ABRIL","Female","2000",313
+43,"DANIELA","Female","2000",313
+44,"ADRIANA","Female","2000",287
+45,"AITANA","Female","2000",257
+46,"SANDRA","Female","2000",248
+47,"EVA","Female","2000",244
+48,"MIRIAM","Female","2000",241
+49,"PATRICIA","Female","2000",238
+50,"JOANA","Female","2000",236
+1,"MARTINA","Female","2010",1105
+2,"JULIA","Female","2010",1093
+3,"LAIA","Female","2010",1010
+4,"LUCIA","Female","2010",923
+5,"MARIA","Female","2010",910
+6,"SOFIA","Female","2010",823
+7,"EMMA","Female","2010",818
+8,"PAULA","Female","2010",782
+9,"CARLA","Female","2010",731
+10,"NOA","Female","2010",706
+11,"AINA","Female","2010",699
+12,"CLAUDIA","Female","2010",654
+13,"SARA","Female","2010",576
+14,"ONA","Female","2010",542
+15,"ALBA","Female","2010",537
+16,"VALENTINA","Female","2010",514
+17,"OLIVIA","Female","2010",477
+18,"ARIADNA","Female","2010",467
+19,"CLARA","Female","2010",449
+20,"DANIELA","Female","2010",436
+21,"JANA","Female","2010",427
+22,"ANNA","Female","2010",399
+23,"ABRIL","Female","2010",392
+24,"NORA","Female","2010",369
+25,"BERTA","Female","2010",356
+26,"ARLET","Female","2010",351
+27,"CARLOTA","Female","2010",349
+28,"CHLOE","Female","2010",346
+29,"VALERIA","Female","2010",339
+30,"MIA","Female","2010",338
+31,"LAURA","Female","2010",330
+32,"INES","Female","2010",323
+33,"MARINA","Female","2010",310
+34,"IRENE","Female","2010",304
+35,"MAR","Female","2010",278
+36,"AINHOA","Female","2010",274
+37,"BRUNA","Female","2010",264
+38,"GALA","Female","2010",258
+39,"BLANCA","Female","2010",255
+40,"ADRIANA","Female","2010",243
+41,"MARTA","Female","2010",241
+42,"MARIONA","Female","2010",240
+43,"LOLA","Female","2010",238
+44,"NURIA","Female","2010",226
+45,"VERA","Female","2010",219
+46,"AITANA","Female","2010",207
+47,"ALEXANDRA","Female","2010",206
+48,"LIA","Female","2010",195
+49,"ANA","Female","2010",191
+50,"ELENA","Female","2010",189
+1,"JOSE","Male","Before 1930",822
+2,"ANTONIO","Male","Before 1930",591
+3,"JUAN","Male","Before 1930",524
+4,"FRANCISCO","Male","Before 1930",520
+5,"MANUEL","Male","Before 1930",481
+6,"RAMON","Male","Before 1930",283
+7,"JOSEP","Male","Before 1930",243
+8,"PEDRO","Male","Before 1930",219
+9,"MIGUEL","Male","Before 1930",208
+10,"LUIS","Male","Before 1930",198
+11,"JOAN","Male","Before 1930",197
+12,"JOAQUIN","Male","Before 1930",159
+13,"JOSE M","Male","Before 1930",151
+14,"ANGEL","Male","Before 1930",148
+15,"VICENTE","Male","Before 1930",142
+16,"JAIME","Male","Before 1930",139
+17,"RAFAEL","Male","Before 1930",139
+18,"ENRIQUE","Male","Before 1930",134
+19,"JORDI","Male","Before 1930",118
+20,"JESUS","Male","Before 1930",117
+21,"CARLOS","Male","Before 1930",105
+22,"SALVADOR","Male","Before 1930",97
+23,"JAUME","Male","Before 1930",96
+24,"FERNANDO","Male","Before 1930",95
+25,"EMILIO","Male","Before 1930",85
+26,"JORGE","Male","Before 1930",85
+27,"FRANCESC","Male","Before 1930",79
+28,"ANTONI","Male","Before 1930",76
+29,"DOMINGO","Male","Before 1930",73
+30,"RICARDO","Male","Before 1930",73
+31,"ALFONSO","Male","Before 1930",71
+32,"JOSEP M","Male","Before 1930",69
+33,"AGUSTIN","Male","Before 1930",64
+34,"ANDRES","Male","Before 1930",63
+35,"SANTIAGO","Male","Before 1930",63
+36,"LLUIS","Male","Before 1930",60
+37,"TOMAS","Male","Before 1930",59
+38,"EDUARDO","Male","Before 1930",57
+39,"JOSE MARIA","Male","Before 1930",57
+40,"ALBERTO","Male","Before 1930",54
+41,"FELIX","Male","Before 1930",53
+42,"MARIANO","Male","Before 1930",53
+43,"PERE","Male","Before 1930",51
+44,"JULIAN","Male","Before 1930",47
+45,"ENRIC","Male","Before 1930",45
+46,"GREGORIO","Male","Before 1930",45
+47,"JULIO","Male","Before 1930",45
+48,"MIQUEL","Male","Before 1930",44
+49,"DANIEL","Male","Before 1930",43
+50,"ALEJANDRO","Male","Before 1930",39
+1,"JOSE","Male","1930",3165
+2,"ANTONIO","Male","1930",2368
+3,"MANUEL","Male","1930",1911
+4,"FRANCISCO","Male","1930",1887
+5,"JUAN","Male","1930",1877
+6,"RAMON","Male","1930",906
+7,"PEDRO","Male","1930",860
+8,"LUIS","Male","1930",793
+9,"MIGUEL","Male","1930",751
+10,"JOSEP","Male","1930",725
+11,"JOAN","Male","1930",597
+12,"JOAQUIN","Male","1930",527
+13,"ENRIQUE","Male","1930",526
+14,"JOSE M","Male","1930",523
+15,"RAFAEL","Male","1930",519
+16,"ANGEL","Male","1930",512
+17,"JAIME","Male","1930",461
+18,"JORGE","Male","1930",450
+19,"JESUS","Male","1930",423
+20,"VICENTE","Male","1930",420
+21,"JORDI","Male","1930",411
+22,"FERNANDO","Male","1930",397
+23,"CARLOS","Male","1930",386
+24,"EMILIO","Male","1930",319
+25,"SALVADOR","Male","1930",293
+26,"ANDRES","Male","1930",285
+27,"ALBERTO","Male","1930",271
+28,"JAUME","Male","1930",264
+29,"FRANCESC","Male","1930",252
+30,"EDUARDO","Male","1930",240
+31,"JULIO","Male","1930",236
+32,"SANTIAGO","Male","1930",232
+33,"RICARDO","Male","1930",224
+34,"ANTONI","Male","1930",215
+35,"MARIANO","Male","1930",210
+36,"AGUSTIN","Male","1930",208
+37,"LLUIS","Male","1930",204
+38,"JOSE MARIA","Male","1930",201
+39,"DOMINGO","Male","1930",196
+40,"TOMAS","Male","1930",191
+41,"FELIX","Male","1930",189
+42,"ALFONSO","Male","1930",178
+43,"JULIAN","Male","1930",172
+44,"ENRIC","Male","1930",169
+45,"JOSEP M","Male","1930",163
+46,"JOSE L","Male","1930",158
+47,"PERE","Male","1930",153
+48,"JOSE A","Male","1930",139
+49,"DIEGO","Male","1930",130
+50,"ALFREDO","Male","1930",124
+1,"JOSE","Male","1940",4226
+2,"ANTONIO","Male","1940",3816
+3,"FRANCISCO","Male","1940",2868
+4,"MANUEL","Male","1940",2851
+5,"JUAN","Male","1940",2590
+6,"RAMON","Male","1940",1363
+7,"PEDRO","Male","1940",1264
+8,"JOSE M","Male","1940",1206
+9,"MIGUEL","Male","1940",1145
+10,"LUIS","Male","1940",1143
+11,"JOSEP","Male","1940",1058
+12,"JOAN","Male","1940",976
+13,"ANGEL","Male","1940",930
+14,"RAFAEL","Male","1940",859
+15,"CARLOS","Male","1940",834
+16,"FERNANDO","Male","1940",825
+17,"JESUS","Male","1940",816
+18,"JAIME","Male","1940",799
+19,"ENRIQUE","Male","1940",777
+20,"JORDI","Male","1940",743
+21,"JOAQUIN","Male","1940",719
+22,"JORGE","Male","1940",694
+23,"VICENTE","Male","1940",609
+24,"JOSE L","Male","1940",598
+25,"SANTIAGO","Male","1940",512
+26,"JOSE MARIA","Male","1940",508
+27,"SALVADOR","Male","1940",486
+28,"JOSE LUIS","Male","1940",476
+29,"JAUME","Male","1940",475
+30,"ALBERTO","Male","1940",462
+31,"JOSEP M","Male","1940",442
+32,"EDUARDO","Male","1940",433
+33,"RICARDO","Male","1940",425
+34,"JOSE A","Male","1940",412
+35,"ANDRES","Male","1940",403
+36,"EMILIO","Male","1940",399
+37,"ANTONI","Male","1940",385
+38,"FRANCESC","Male","1940",381
+39,"LLUIS","Male","1940",349
+40,"AGUSTIN","Male","1940",336
+41,"JULIO","Male","1940",332
+42,"ALFONSO","Male","1940",314
+43,"TOMAS","Male","1940",287
+44,"MIQUEL","Male","1940",279
+45,"ENRIC","Male","1940",274
+46,"PERE","Male","1940",274
+47,"JOSE ANTONIO","Male","1940",272
+48,"FELIX","Male","1940",258
+49,"ALBERT","Male","1940",243
+50,"JULIAN","Male","1940",242
+1,"ANTONIO","Male","1950",3587
+2,"JOSE","Male","1950",3414
+3,"FRANCISCO","Male","1950",2762
+4,"MANUEL","Male","1950",2754
+5,"JUAN","Male","1950",2278
+6,"JORDI","Male","1950",1720
+7,"JORGE","Male","1950",1567
+8,"CARLOS","Male","1950",1539
+9,"RAMON","Male","1950",1361
+10,"PEDRO","Male","1950",1249
+11,"LUIS","Male","1950",1164
+12,"JOSE M","Male","1950",1146
+13,"MIGUEL","Male","1950",1139
+14,"JOSEP","Male","1950",1114
+15,"JOAN","Male","1950",1095
+16,"RAFAEL","Male","1950",996
+17,"FERNANDO","Male","1950",926
+18,"ENRIQUE","Male","1950",909
+19,"ANGEL","Male","1950",907
+20,"JESUS","Male","1950",852
+21,"JAIME","Male","1950",811
+22,"JOSE LUIS","Male","1950",793
+23,"JOAQUIN","Male","1950",741
+24,"JAVIER","Male","1950",739
+25,"JOSE MARIA","Male","1950",711
+26,"FRANCISCO JAVIER","Male","1950",672
+27,"ALBERTO","Male","1950",662
+28,"JOSE L","Male","1950",655
+29,"SALVADOR","Male","1950",577
+30,"JOSE A","Male","1950",557
+31,"VICENTE","Male","1950",538
+32,"JAUME","Male","1950",536
+33,"SANTIAGO","Male","1950",518
+34,"JOSE ANTONIO","Male","1950",507
+35,"EDUARDO","Male","1950",504
+36,"RICARDO","Male","1950",483
+37,"ANTONI","Male","1950",467
+38,"FRANCESC","Male","1950",453
+39,"EMILIO","Male","1950",447
+40,"ANDRES","Male","1950",442
+41,"XAVIER","Male","1950",422
+42,"JOSEP M","Male","1950",406
+43,"ALBERT","Male","1950",402
+44,"LLUIS","Male","1950",400
+45,"ALFONSO","Male","1950",396
+46,"ENRIC","Male","1950",362
+47,"JOSE MANUEL","Male","1950",360
+48,"AGUSTIN","Male","1950",357
+49,"PERE","Male","1950",328
+50,"TOMAS","Male","1950",325
+1,"ANTONIO","Male","1960",2926
+2,"JORDI","Male","1960",2924
+3,"JORGE","Male","1960",2338
+4,"CARLOS","Male","1960",2279
+5,"MANUEL","Male","1960",2137
+6,"JOSE","Male","1960",2129
+7,"FRANCISCO","Male","1960",2048
+8,"JAVIER","Male","1960",1832
+9,"JUAN","Male","1960",1568
+10,"FRANCISCO JAVIER","Male","1960",1469
+11,"DAVID","Male","1960",1370
+12,"JOSE LUIS","Male","1960",1166
+13,"RAMON","Male","1960",1141
+14,"FERNANDO","Male","1960",1069
+15,"JUAN CARLOS","Male","1960",1057
+16,"ALBERTO","Male","1960",1054
+17,"XAVIER","Male","1960",1015
+18,"LUIS","Male","1960",1011
+19,"RAFAEL","Male","1960",1010
+20,"PEDRO","Male","1960",976
+21,"MIGUEL","Male","1960",975
+22,"JOSE ANTONIO","Male","1960",943
+23,"JOAN","Male","1960",911
+24,"JOSEP","Male","1960",895
+25,"ENRIQUE","Male","1960",874
+26,"JOSE M","Male","1960",779
+27,"ANGEL","Male","1960",755
+28,"JAIME","Male","1960",746
+29,"JESUS","Male","1960",745
+30,"SERGIO","Male","1960",736
+31,"JOSE MARIA","Male","1960",725
+32,"ALBERT","Male","1960",707
+33,"EDUARDO","Male","1960",685
+34,"RICARDO","Male","1960",675
+35,"MIGUEL ANGEL","Male","1960",673
+36,"JOAQUIN","Male","1960",672
+37,"JOSE MANUEL","Male","1960",672
+38,"ALEJANDRO","Male","1960",656
+39,"SANTIAGO","Male","1960",634
+40,"DANIEL","Male","1960",613
+41,"JAUME","Male","1960",572
+42,"OSCAR","Male","1960",521
+43,"FRANCESC","Male","1960",520
+44,"JUAN JOSE","Male","1960",486
+45,"SALVADOR","Male","1960",482
+46,"CARLES","Male","1960",469
+47,"ANDRES","Male","1960",465
+48,"JOSE L","Male","1960",428
+49,"ENRIC","Male","1960",419
+50,"LLUIS","Male","1960",413
+1,"DAVID","Male","1970",4393
+2,"JORDI","Male","1970",3485
+3,"DANIEL","Male","1970",2510
+4,"CARLOS","Male","1970",2307
+5,"JAVIER","Male","1970",2287
+6,"OSCAR","Male","1970",2246
+7,"SERGIO","Male","1970",2068
+8,"JORGE","Male","1970",1980
+9,"ANTONIO","Male","1970",1841
+10,"XAVIER","Male","1970",1489
+11,"ALEJANDRO","Male","1970",1449
+12,"MARC","Male","1970",1435
+13,"ALBERTO","Male","1970",1385
+14,"FRANCISCO","Male","1970",1156
+15,"MANUEL","Male","1970",1153
+16,"RAUL","Male","1970",1112
+17,"FRANCISCO JAVIER","Male","1970",1076
+18,"ALBERT","Male","1970",1016
+19,"IVAN","Male","1970",975
+20,"JOSE","Male","1970",953
+21,"JUAN","Male","1970",884
+22,"MIGUEL ANGEL","Male","1970",828
+23,"JUAN CARLOS","Male","1970",808
+24,"LUIS","Male","1970",807
+25,"VICTOR","Male","1970",800
+26,"JOSE LUIS","Male","1970",799
+27,"FERNANDO","Male","1970",794
+28,"MIGUEL","Male","1970",781
+29,"EDUARDO","Male","1970",725
+30,"JOAN","Male","1970",718
+31,"ORIOL","Male","1970",698
+32,"JOSE ANTONIO","Male","1970",692
+33,"RAFAEL","Male","1970",683
+34,"RAMON","Male","1970",678
+35,"MARCOS","Male","1970",673
+36,"ROGER","Male","1970",673
+37,"SERGI","Male","1970",633
+38,"PEDRO","Male","1970",625
+39,"MUHAMMAD","Male","1970",599
+40,"IGNACIO","Male","1970",598
+41,"ENRIQUE","Male","1970",596
+42,"JOSE MANUEL","Male","1970",577
+43,"RICARDO","Male","1970",577
+44,"SANTIAGO","Male","1970",564
+45,"RUBEN","Male","1970",562
+46,"PABLO","Male","1970",551
+47,"JESUS","Male","1970",537
+48,"JAIME","Male","1970",521
+49,"ANGEL","Male","1970",507
+50,"ROBERTO","Male","1970",486
+1,"DAVID","Male","1980",2928
+2,"DANIEL","Male","1980",2392
+3,"JORDI","Male","1980",2172
+4,"MARC","Male","1980",2054
+5,"JAVIER","Male","1980",1825
+6,"CARLOS","Male","1980",1755
+7,"ALBERT","Male","1980",1578
+8,"ALEJANDRO","Male","1980",1457
+9,"SERGIO","Male","1980",1306
+10,"VICTOR","Male","1980",1285
+11,"XAVIER","Male","1980",1279
+12,"ALBERTO","Male","1980",1135
+13,"ORIOL","Male","1980",893
+14,"RUBEN","Male","1980",887
+15,"ANTONIO","Male","1980",850
+16,"IVAN","Male","1980",847
+17,"RAUL","Male","1980",832
+18,"OSCAR","Male","1980",813
+19,"CRISTIAN","Male","1980",796
+20,"JOAN","Male","1980",756
+21,"SERGI","Male","1980",709
+22,"PABLO","Male","1980",692
+23,"MIGUEL","Male","1980",649
+24,"JORGE","Male","1980",640
+25,"ROGER","Male","1980",630
+26,"MUHAMMAD","Male","1980",602
+27,"MANUEL","Male","1980",601
+28,"FRANCISCO","Male","1980",530
+29,"GERARD","Male","1980",518
+30,"EDUARDO","Male","1980",498
+31,"IGNACIO","Male","1980",491
+32,"JUAN","Male","1980",491
+33,"FRANCISCO JAVIER","Male","1980",487
+34,"JOSE","Male","1980",486
+35,"PAU","Male","1980",475
+36,"EDUARD","Male","1980",444
+37,"FERRAN","Male","1980",423
+38,"ADRIAN","Male","1980",420
+39,"MIGUEL ANGEL","Male","1980",420
+40,"LUIS","Male","1980",419
+41,"MARCOS","Male","1980",415
+42,"FERNANDO","Male","1980",407
+43,"GUILLEM","Male","1980",404
+44,"HECTOR","Male","1980",394
+45,"ALEX","Male","1980",388
+46,"ADRIA","Male","1980",385
+47,"CARLES","Male","1980",383
+48,"JESUS","Male","1980",380
+49,"ALVARO","Male","1980",378
+50,"JOSEP","Male","1980",366
+1,"MARC","Male","1990",2584
+2,"DAVID","Male","1990",1808
+3,"DANIEL","Male","1990",1638
+4,"ALBERT","Male","1990",1349
+5,"VICTOR","Male","1990",1342
+6,"ALEJANDRO","Male","1990",1306
+7,"JORDI","Male","1990",1124
+8,"ALEX","Male","1990",1006
+9,"SERGI","Male","1990",1005
+10,"CARLOS","Male","1990",983
+11,"POL","Male","1990",921
+12,"JAVIER","Male","1990",837
+13,"XAVIER","Male","1990",804
+14,"SERGIO","Male","1990",800
+15,"ORIOL","Male","1990",797
+16,"GERARD","Male","1990",795
+17,"GUILLEM","Male","1990",784
+18,"PAU","Male","1990",769
+19,"ADRIA","Male","1990",754
+20,"JOAN","Male","1990",742
+21,"OSCAR","Male","1990",688
+22,"ERIC","Male","1990",607
+23,"PABLO","Male","1990",595
+24,"ADRIAN","Male","1990",593
+25,"ROGER","Male","1990",577
+26,"IVAN","Male","1990",573
+27,"ARNAU","Male","1990",567
+28,"ALVARO","Male","1990",435
+29,"RUBEN","Male","1990",433
+30,"ALBERTO","Male","1990",432
+31,"FERRAN","Male","1990",419
+32,"CRISTIAN","Male","1990",412
+33,"EDUARD","Male","1990",410
+34,"ANTONIO","Male","1990",403
+35,"IGNACIO","Male","1990",401
+36,"MIGUEL","Male","1990",382
+37,"MIQUEL","Male","1990",357
+38,"RAUL","Male","1990",354
+39,"MARTI","Male","1990",338
+40,"GUILLERMO","Male","1990",337
+41,"ALEIX","Male","1990",323
+42,"CARLES","Male","1990",320
+43,"JOEL","Male","1990",304
+44,"ENRIC","Male","1990",301
+45,"HECTOR","Male","1990",297
+46,"LUIS","Male","1990",282
+47,"MUHAMMAD","Male","1990",279
+48,"MANUEL","Male","1990",276
+49,"JAUME","Male","1990",267
+50,"SANTIAGO","Male","1990",258
+1,"MARC","Male","2000",2309
+2,"ALEX","Male","2000",1631
+3,"POL","Male","2000",1563
+4,"PAU","Male","2000",1499
+5,"DANIEL","Male","2000",1246
+6,"DAVID","Male","2000",1239
+7,"ARNAU","Male","2000",1041
+8,"VICTOR","Male","2000",1012
+9,"ALEJANDRO","Male","2000",892
+10,"JOAN","Male","2000",869
+11,"MARTI","Male","2000",849
+12,"ERIC","Male","2000",842
+13,"PABLO","Male","2000",799
+14,"ORIOL","Male","2000",794
+15,"GERARD","Male","2000",764
+16,"JAN","Male","2000",764
+17,"ADRIA","Male","2000",753
+18,"GUILLEM","Male","2000",712
+19,"JORDI","Male","2000",705
+20,"SERGI","Male","2000",654
+21,"JOEL","Male","2000",627
+22,"ALBERT","Male","2000",619
+23,"ROGER","Male","2000",599
+24,"IVAN","Male","2000",568
+25,"CARLOS","Male","2000",514
+26,"XAVIER","Male","2000",505
+27,"OSCAR","Male","2000",497
+28,"HUGO","Male","2000",483
+29,"ALVARO","Male","2000",479
+30,"NICOLAS","Male","2000",456
+31,"BIEL","Male","2000",452
+32,"MAX","Male","2000",442
+33,"LUCAS","Male","2000",432
+34,"ADRIAN","Male","2000",414
+35,"JAVIER","Male","2000",414
+36,"ALEIX","Male","2000",410
+37,"NIL","Male","2000",398
+38,"IKER","Male","2000",391
+39,"BRUNO","Male","2000",388
+40,"MARIO","Male","2000",360
+41,"MIQUEL","Male","2000",360
+42,"HECTOR","Male","2000",358
+43,"RAUL","Male","2000",355
+44,"SERGIO","Male","2000",320
+45,"IGNACIO","Male","2000",317
+46,"GABRIEL","Male","2000",307
+47,"MIGUEL","Male","2000",290
+48,"RUBEN","Male","2000",269
+49,"GUILLERMO","Male","2000",262
+50,"FERRAN","Male","2000",261
+1,"MARC","Male","2010",1422
+2,"ALEX","Male","2010",1037
+3,"POL","Male","2010",1003
+4,"ERIC","Male","2010",902
+5,"PAU","Male","2010",882
+6,"MARTI","Male","2010",811
+7,"BIEL","Male","2010",726
+8,"ARNAU","Male","2010",715
+9,"JAN","Male","2010",702
+10,"DANIEL","Male","2010",653
+11,"HUGO","Male","2010",646
+12,"GERARD","Male","2010",621
+13,"LUCAS","Male","2010",611
+14,"NIL","Male","2010",598
+15,"BRUNO","Male","2010",591
+16,"LEO","Male","2010",552
+17,"MAX","Male","2010",494
+18,"PABLO","Male","2010",479
+19,"ALEIX","Male","2010",472
+20,"DAVID","Male","2010",469
+21,"ADRIA","Male","2010",453
+22,"NICOLAS","Male","2010",435
+23,"VICTOR","Male","2010",430
+24,"MATEO","Male","2010",401
+25,"GUILLEM","Male","2010",379
+26,"ALEJANDRO","Male","2010",373
+27,"JOAN","Male","2010",350
+28,"JOEL","Male","2010",346
+29,"ORIOL","Male","2010",344
+30,"ROGER","Male","2010",329
+31,"JORDI","Male","2010",321
+32,"GABRIEL","Male","2010",318
+33,"GAEL","Male","2010",307
+34,"MARIO","Male","2010",305
+35,"TEO","Male","2010",302
+36,"ROC","Male","2010",282
+37,"DIEGO","Male","2010",264
+38,"ADAM","Male","2010",262
+39,"ALVARO","Male","2010",259
+40,"ADRIAN","Male","2010",256
+41,"IKER","Male","2010",240
+42,"LUCA","Male","2010",237
+43,"IAN","Male","2010",236
+44,"LLUC","Male","2010",235
+45,"MARTIN","Male","2010",235
+46,"IZAN","Male","2010",234
+47,"TOMAS","Male","2010",231
+48,"DIDAC","Male","2010",221
+49,"ERIK","Male","2010",220
+50,"IVAN","Male","2010",218
+1,"MARIA","Female","TOTAL",19173
+2,"MONTSERRAT","Female","TOTAL",16381
+3,"MARTA","Female","TOTAL",12754
+4,"CARMEN","Female","TOTAL",12296
+5,"NURIA","Female","TOTAL",11195
+6,"LAURA","Female","TOTAL",10629
+7,"M CARMEN","Female","TOTAL",10598
+8,"CRISTINA","Female","TOTAL",9704
+9,"ISABEL","Female","TOTAL",8662
+10,"JOSEFA","Female","TOTAL",7837
+11,"ANA","Female","TOTAL",7794
+12,"ANNA","Female","TOTAL",7606
+13,"M TERESA","Female","TOTAL",7499
+14,"MERCEDES","Female","TOTAL",7074
+15,"PILAR","Female","TOTAL",6798
+16,"SILVIA","Female","TOTAL",6204
+17,"ROSA","Female","TOTAL",6041
+18,"ANA MARIA","Female","TOTAL",5776
+19,"JULIA","Female","TOTAL",5680
+20,"FRANCISCA","Female","TOTAL",5509
+21,"TERESA","Female","TOTAL",5322
+22,"ANTONIA","Female","TOTAL",5230
+23,"DOLORES","Female","TOTAL",5130
+24,"ELENA","Female","TOTAL",5016
+25,"SARA","Female","TOTAL",4924
+26,"LAIA","Female","TOTAL",4833
+27,"MONICA","Female","TOTAL",4780
+28,"CONCEPCION","Female","TOTAL",4731
+29,"M DOLORES","Female","TOTAL",4713
+30,"EVA","Female","TOTAL",4498
+31,"M PILAR","Female","TOTAL",4476
+32,"PAULA","Female","TOTAL",4346
+33,"MIREIA","Female","TOTAL",4275
+34,"ESTHER","Female","TOTAL",4001
+35,"M ROSA","Female","TOTAL",3980
+36,"SANDRA","Female","TOTAL",3894
+37,"M ISABEL","Female","TOTAL",3876
+38,"MARINA","Female","TOTAL",3856
+39,"RAQUEL","Female","TOTAL",3840
+40,"M ANGELES","Female","TOTAL",3833
+41,"ALBA","Female","TOTAL",3782
+42,"GEMMA","Female","TOTAL",3728
+43,"MARGARITA","Female","TOTAL",3727
+44,"ROSA MARIA","Female","TOTAL",3684
+45,"CARLA","Female","TOTAL",3673
+46,"SONIA","Female","TOTAL",3651
+47,"ANDREA","Female","TOTAL",3617
+48,"LUCIA","Female","TOTAL",3604
+49,"M LUISA","Female","TOTAL",3467
+50,"SUSANA","Female","TOTAL",3457
+1,"ANTONIO","Male","TOTAL",16709
+2,"JOSE","Male","TOTAL",15740
+3,"JORDI","Male","TOTAL",13723
+4,"DAVID","Male","TOTAL",12528
+5,"MANUEL","Male","TOTAL",12453
+6,"FRANCISCO","Male","TOTAL",12133
+7,"CARLOS","Male","TOTAL",10866
+8,"JUAN","Male","TOTAL",10760
+9,"MARC","Male","TOTAL",10099
+10,"DANIEL","Male","TOTAL",9715
+11,"JAVIER","Male","TOTAL",8387
+12,"JORGE","Male","TOTAL",8149
+13,"JOAN","Male","TOTAL",7211
+14,"ALEJANDRO","Male","TOTAL",6819
+15,"MIGUEL","Male","TOTAL",6438
+16,"RAMON","Male","TOTAL",6390
+17,"ALBERT","Male","TOTAL",6248
+18,"LUIS","Male","TOTAL",6108
+19,"PEDRO","Male","TOTAL",5933
+20,"XAVIER","Male","TOTAL",5869
+21,"VICTOR","Male","TOTAL",5818
+22,"SERGIO","Male","TOTAL",5640
+23,"ALBERTO","Male","TOTAL",5635
+24,"JOSEP","Male","TOTAL",5376
+25,"OSCAR","Male","TOTAL",5070
+26,"RAFAEL","Male","TOTAL",4883
+27,"FERNANDO","Male","TOTAL",4837
+28,"ANGEL","Male","TOTAL",4567
+29,"ALEX","Male","TOTAL",4448
+30,"ENRIQUE","Male","TOTAL",4439
+31,"JOSE M","Male","TOTAL",4367
+32,"FRANCISCO JAVIER","Male","TOTAL",4218
+33,"JESUS","Male","TOTAL",4132
+34,"PAU","Male","TOTAL",3993
+35,"PABLO","Male","TOTAL",3954
+36,"JAIME","Male","TOTAL",3939
+37,"JOSE LUIS","Male","TOTAL",3912
+38,"POL","Male","TOTAL",3855
+39,"ORIOL","Male","TOTAL",3701
+40,"JOAQUIN","Male","TOTAL",3663
+41,"SANTIAGO","Male","TOTAL",3547
+42,"EDUARDO","Male","TOTAL",3519
+43,"SERGI","Male","TOTAL",3456
+44,"IVAN","Male","TOTAL",3285
+45,"JAUME","Male","TOTAL",3204
+46,"RAUL","Male","TOTAL",3146
+47,"JOSE MARIA","Male","TOTAL",3140
+48,"JOSE ANTONIO","Male","TOTAL",2994
+49,"RICARDO","Male","TOTAL",2991
+50,"GERARD","Male","TOTAL",2988

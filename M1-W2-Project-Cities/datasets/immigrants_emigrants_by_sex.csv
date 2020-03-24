@@ -1,0 +1,731 @@
+"Year","District Code","District Name","Neighborhood Code","Neighborhood Name","Gender","Immigrants","Emigrants"
+2017,1,"Ciutat Vella",1,"el Raval","Male",3063,1195
+2017,1,"Ciutat Vella",2,"el Barri Gòtic","Male",1499,427
+2017,1,"Ciutat Vella",3,"la Barceloneta","Male",910,361
+2017,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Male",1438,502
+2017,2,"Eixample",5,"el Fort Pienc","Male",1082,495
+2017,2,"Eixample",6,"la Sagrada Família","Male",1693,796
+2017,2,"Eixample",7,"la Dreta de l'Eixample","Male",1543,666
+2017,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Male",1693,702
+2017,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Male",1927,925
+2017,2,"Eixample",10,"Sant Antoni","Male",1253,632
+2017,3,"Sants-Montjuïc",11,"el Poble Sec","Male",1595,887
+2017,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Male",17,22
+2017,3,"Sants-Montjuïc",13,"la Marina de Port","Male",724,516
+2017,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Male",351,193
+2017,3,"Sants-Montjuïc",15,"Hostafrancs","Male",584,319
+2017,3,"Sants-Montjuïc",16,"la Bordeta","Male",471,329
+2017,3,"Sants-Montjuïc",17,"Sants - Badal","Male",703,475
+2017,3,"Sants-Montjuïc",18,"Sants","Male",1407,789
+2017,4,"Les Corts",19,"les Corts","Male",1054,651
+2017,4,"Les Corts",20,"la Maternitat i Sant Ramon","Male",608,415
+2017,4,"Les Corts",21,"Pedralbes","Male",367,189
+2017,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Male",89,67
+2017,5,"Sarrià-Sant Gervasi",23,"Sarrià","Male",606,318
+2017,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Male",337,183
+2017,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Male",531,299
+2017,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Male",1092,598
+2017,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Male",733,396
+2017,6,"Gràcia",28,"Vallcarca i els Penitents","Male",355,229
+2017,6,"Gràcia",29,"el Coll","Male",166,102
+2017,6,"Gràcia",30,"la Salut","Male",382,184
+2017,6,"Gràcia",31,"la Vila de Gràcia","Male",1623,792
+2017,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Male",833,457
+2017,7,"Horta-Guinardó",33,"el Baix Guinardó","Male",620,371
+2017,7,"Horta-Guinardó",34,"Can Baró","Male",240,135
+2017,7,"Horta-Guinardó",35,"el Guinardó","Male",874,524
+2017,7,"Horta-Guinardó",36,"la Font d'en Fargues","Male",121,97
+2017,7,"Horta-Guinardó",37,"el Carmel","Male",671,461
+2017,7,"Horta-Guinardó",38,"la Teixonera","Male",246,186
+2017,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Male",213,98
+2017,7,"Horta-Guinardó",40,"Montbau","Male",129,87
+2017,7,"Horta-Guinardó",41,"la Vall d'Hebron","Male",92,61
+2017,7,"Horta-Guinardó",42,"la Clota","Male",18,6
+2017,7,"Horta-Guinardó",43,"Horta","Male",521,329
+2017,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Male",509,336
+2017,8,"Nou Barris",45,"Porta","Male",647,369
+2017,8,"Nou Barris",46,"el Turó de la Peira","Male",409,221
+2017,8,"Nou Barris",47,"Can Peguera","Male",26,27
+2017,8,"Nou Barris",48,"la Guineueta","Male",218,156
+2017,8,"Nou Barris",49,"Canyelles","Male",62,60
+2017,8,"Nou Barris",50,"les Roquetes","Male",413,253
+2017,8,"Nou Barris",51,"Verdun","Male",305,203
+2017,8,"Nou Barris",52,"la Prosperitat","Male",571,342
+2017,8,"Nou Barris",53,"la Trinitat Nova","Male",221,156
+2017,8,"Nou Barris",54,"Torre Baró","Male",53,44
+2017,8,"Nou Barris",55,"Ciutat Meridiana","Male",409,230
+2017,8,"Nou Barris",56,"Vallbona","Male",31,28
+2017,9,"Sant Andreu",57,"la Trinitat Vella","Male",368,237
+2017,9,"Sant Andreu",58,"Baró de Viver","Male",47,43
+2017,9,"Sant Andreu",59,"el Bon Pastor","Male",307,215
+2017,9,"Sant Andreu",60,"Sant Andreu","Male",939,667
+2017,9,"Sant Andreu",61,"la Sagrera","Male",643,372
+2017,9,"Sant Andreu",62,"el Congrés i els Indians","Male",297,191
+2017,9,"Sant Andreu",63,"Navas","Male",501,300
+2017,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Male",1075,595
+2017,10,"Sant Martí",65,"el Clot","Male",651,373
+2017,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Male",490,210
+2017,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Male",190,140
+2017,10,"Sant Martí",68,"el Poblenou","Male",874,513
+2017,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Male",379,263
+2017,10,"Sant Martí",70,"el Besòs i el Maresme","Male",1146,519
+2017,10,"Sant Martí",71,"Provençals del Poblenou","Male",469,311
+2017,10,"Sant Martí",72,"Sant Martí de Provençals","Male",536,357
+2017,10,"Sant Martí",73,"la Verneda i la Pau","Male",602,389
+2017,1,"Ciutat Vella",1,"el Raval","Female",2337,910
+2017,1,"Ciutat Vella",2,"el Barri Gòtic","Female",1188,353
+2017,1,"Ciutat Vella",3,"la Barceloneta","Female",849,353
+2017,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Female",1327,528
+2017,2,"Eixample",5,"el Fort Pienc","Female",1155,586
+2017,2,"Eixample",6,"la Sagrada Família","Female",1898,890
+2017,2,"Eixample",7,"la Dreta de l'Eixample","Female",1657,803
+2017,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Female",1774,672
+2017,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Female",2135,1034
+2017,2,"Eixample",10,"Sant Antoni","Female",1237,682
+2017,3,"Sants-Montjuïc",11,"el Poble Sec","Female",1492,790
+2017,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Female",15,20
+2017,3,"Sants-Montjuïc",13,"la Marina de Port","Female",775,511
+2017,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Female",295,200
+2017,3,"Sants-Montjuïc",15,"Hostafrancs","Female",575,330
+2017,3,"Sants-Montjuïc",16,"la Bordeta","Female",474,353
+2017,3,"Sants-Montjuïc",17,"Sants - Badal","Female",773,539
+2017,3,"Sants-Montjuïc",18,"Sants","Female",1432,863
+2017,4,"Les Corts",19,"les Corts","Female",1222,728
+2017,4,"Les Corts",20,"la Maternitat i Sant Ramon","Female",727,484
+2017,4,"Les Corts",21,"Pedralbes","Female",397,192
+2017,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Female",98,76
+2017,5,"Sarrià-Sant Gervasi",23,"Sarrià","Female",602,379
+2017,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Female",365,222
+2017,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Female",650,334
+2017,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Female",1342,680
+2017,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Female",782,485
+2017,6,"Gràcia",28,"Vallcarca i els Penitents","Female",417,261
+2017,6,"Gràcia",29,"el Coll","Female",206,105
+2017,6,"Gràcia",30,"la Salut","Female",350,202
+2017,6,"Gràcia",31,"la Vila de Gràcia","Female",1964,933
+2017,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Female",958,542
+2017,7,"Horta-Guinardó",33,"el Baix Guinardó","Female",665,385
+2017,7,"Horta-Guinardó",34,"Can Baró","Female",233,155
+2017,7,"Horta-Guinardó",35,"el Guinardó","Female",963,561
+2017,7,"Horta-Guinardó",36,"la Font d'en Fargues","Female",162,100
+2017,7,"Horta-Guinardó",37,"el Carmel","Female",743,500
+2017,7,"Horta-Guinardó",38,"la Teixonera","Female",266,189
+2017,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Female",173,111
+2017,7,"Horta-Guinardó",40,"Montbau","Female",127,82
+2017,7,"Horta-Guinardó",41,"la Vall d'Hebron","Female",95,59
+2017,7,"Horta-Guinardó",42,"la Clota","Female",21,9
+2017,7,"Horta-Guinardó",43,"Horta","Female",606,354
+2017,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Female",547,372
+2017,8,"Nou Barris",45,"Porta","Female",751,371
+2017,8,"Nou Barris",46,"el Turó de la Peira","Female",469,263
+2017,8,"Nou Barris",47,"Can Peguera","Female",31,28
+2017,8,"Nou Barris",48,"la Guineueta","Female",275,207
+2017,8,"Nou Barris",49,"Canyelles","Female",78,55
+2017,8,"Nou Barris",50,"les Roquetes","Female",507,302
+2017,8,"Nou Barris",51,"Verdun","Female",361,201
+2017,8,"Nou Barris",52,"la Prosperitat","Female",635,379
+2017,8,"Nou Barris",53,"la Trinitat Nova","Female",237,167
+2017,8,"Nou Barris",54,"Torre Baró","Female",42,51
+2017,8,"Nou Barris",55,"Ciutat Meridiana","Female",429,204
+2017,8,"Nou Barris",56,"Vallbona","Female",38,36
+2017,9,"Sant Andreu",57,"la Trinitat Vella","Female",307,223
+2017,9,"Sant Andreu",58,"Baró de Viver","Female",45,46
+2017,9,"Sant Andreu",59,"el Bon Pastor","Female",351,192
+2017,9,"Sant Andreu",60,"Sant Andreu","Female",1026,739
+2017,9,"Sant Andreu",61,"la Sagrera","Female",711,461
+2017,9,"Sant Andreu",62,"el Congrés i els Indians","Female",306,205
+2017,9,"Sant Andreu",63,"Navas","Female",487,323
+2017,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Female",1126,675
+2017,10,"Sant Martí",65,"el Clot","Female",651,374
+2017,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Female",469,226
+2017,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Female",220,128
+2017,10,"Sant Martí",68,"el Poblenou","Female",891,506
+2017,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Female",401,223
+2017,10,"Sant Martí",70,"el Besòs i el Maresme","Female",870,470
+2017,10,"Sant Martí",71,"Provençals del Poblenou","Female",505,306
+2017,10,"Sant Martí",72,"Sant Martí de Provençals","Female",537,363
+2017,10,"Sant Martí",73,"la Verneda i la Pau","Female",638,421
+2016,1,"Ciutat Vella",1,"el Raval","Male",2819,1268
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Male",1135,428
+2016,1,"Ciutat Vella",3,"la Barceloneta","Male",785,352
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Male",1210,498
+2016,2,"Eixample",5,"el Fort Pienc","Male",962,482
+2016,2,"Eixample",6,"la Sagrada Família","Male",1472,771
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Male",1367,657
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Male",1412,621
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Male",1667,859
+2016,2,"Eixample",10,"Sant Antoni","Male",1067,576
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Male",1439,833
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Male",18,22
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Male",622,513
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Male",302,193
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Male",518,329
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Male",442,309
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Male",642,499
+2016,3,"Sants-Montjuïc",18,"Sants","Male",1121,754
+2016,4,"Les Corts",19,"les Corts","Male",977,666
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Male",588,372
+2016,4,"Les Corts",21,"Pedralbes","Male",369,180
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Male",75,67
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Male",542,345
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Male",264,191
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Male",526,309
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Male",1041,565
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Male",580,423
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Male",325,220
+2016,6,"Gràcia",29,"el Coll","Male",161,117
+2016,6,"Gràcia",30,"la Salut","Male",304,171
+2016,6,"Gràcia",31,"la Vila de Gràcia","Male",1405,767
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Male",702,427
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Male",510,349
+2016,7,"Horta-Guinardó",34,"Can Baró","Male",174,118
+2016,7,"Horta-Guinardó",35,"el Guinardó","Male",774,449
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Male",99,109
+2016,7,"Horta-Guinardó",37,"el Carmel","Male",555,422
+2016,7,"Horta-Guinardó",38,"la Teixonera","Male",268,149
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Male",177,83
+2016,7,"Horta-Guinardó",40,"Montbau","Male",97,60
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Male",113,58
+2016,7,"Horta-Guinardó",42,"la Clota","Male",8,5
+2016,7,"Horta-Guinardó",43,"Horta","Male",463,283
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Male",447,287
+2016,8,"Nou Barris",45,"Porta","Male",548,308
+2016,8,"Nou Barris",46,"el Turó de la Peira","Male",336,219
+2016,8,"Nou Barris",47,"Can Peguera","Male",31,27
+2016,8,"Nou Barris",48,"la Guineueta","Male",204,115
+2016,8,"Nou Barris",49,"Canyelles","Male",64,83
+2016,8,"Nou Barris",50,"les Roquetes","Male",383,221
+2016,8,"Nou Barris",51,"Verdun","Male",273,187
+2016,8,"Nou Barris",52,"la Prosperitat","Male",475,363
+2016,8,"Nou Barris",53,"la Trinitat Nova","Male",171,118
+2016,8,"Nou Barris",54,"Torre Baró","Male",55,42
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Male",316,204
+2016,8,"Nou Barris",56,"Vallbona","Male",37,29
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Male",300,227
+2016,9,"Sant Andreu",58,"Baró de Viver","Male",40,50
+2016,9,"Sant Andreu",59,"el Bon Pastor","Male",251,220
+2016,9,"Sant Andreu",60,"Sant Andreu","Male",854,661
+2016,9,"Sant Andreu",61,"la Sagrera","Male",533,358
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Male",251,181
+2016,9,"Sant Andreu",63,"Navas","Male",443,313
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Male",920,589
+2016,10,"Sant Martí",65,"el Clot","Male",570,373
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Male",450,226
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Male",196,116
+2016,10,"Sant Martí",68,"el Poblenou","Male",807,473
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Male",337,192
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Male",871,598
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Male",398,313
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Male",502,360
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Male",506,384
+2016,1,"Ciutat Vella",1,"el Raval","Female",2157,905
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Female",1063,337
+2016,1,"Ciutat Vella",3,"la Barceloneta","Female",763,294
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Female",1167,428
+2016,2,"Eixample",5,"el Fort Pienc","Female",1032,500
+2016,2,"Eixample",6,"la Sagrada Família","Female",1683,866
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Female",1576,764
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Female",1499,679
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Female",1819,950
+2016,2,"Eixample",10,"Sant Antoni","Female",1079,555
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Female",1290,772
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Female",17,26
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Female",679,510
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Female",298,199
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Female",505,323
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Female",445,329
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Female",724,544
+2016,3,"Sants-Montjuïc",18,"Sants","Female",1201,770
+2016,4,"Les Corts",19,"les Corts","Female",1070,660
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Female",622,430
+2016,4,"Les Corts",21,"Pedralbes","Female",366,178
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Female",75,70
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Female",589,378
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Female",348,232
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Female",597,364
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Female",1228,665
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Female",691,485
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Female",354,219
+2016,6,"Gràcia",29,"el Coll","Female",171,131
+2016,6,"Gràcia",30,"la Salut","Female",305,166
+2016,6,"Gràcia",31,"la Vila de Gràcia","Female",1650,848
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Female",803,469
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Female",550,365
+2016,7,"Horta-Guinardó",34,"Can Baró","Female",200,129
+2016,7,"Horta-Guinardó",35,"el Guinardó","Female",852,577
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Female",103,108
+2016,7,"Horta-Guinardó",37,"el Carmel","Female",598,457
+2016,7,"Horta-Guinardó",38,"la Teixonera","Female",268,175
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Female",170,83
+2016,7,"Horta-Guinardó",40,"Montbau","Female",134,64
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Female",98,55
+2016,7,"Horta-Guinardó",42,"la Clota","Female",15,3
+2016,7,"Horta-Guinardó",43,"Horta","Female",506,317
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Female",509,361
+2016,8,"Nou Barris",45,"Porta","Female",618,352
+2016,8,"Nou Barris",46,"el Turó de la Peira","Female",381,231
+2016,8,"Nou Barris",47,"Can Peguera","Female",37,27
+2016,8,"Nou Barris",48,"la Guineueta","Female",260,143
+2016,8,"Nou Barris",49,"Canyelles","Female",65,79
+2016,8,"Nou Barris",50,"les Roquetes","Female",469,303
+2016,8,"Nou Barris",51,"Verdun","Female",303,205
+2016,8,"Nou Barris",52,"la Prosperitat","Female",624,367
+2016,8,"Nou Barris",53,"la Trinitat Nova","Female",174,132
+2016,8,"Nou Barris",54,"Torre Baró","Female",70,35
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Female",310,188
+2016,8,"Nou Barris",56,"Vallbona","Female",28,22
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Female",245,170
+2016,9,"Sant Andreu",58,"Baró de Viver","Female",44,40
+2016,9,"Sant Andreu",59,"el Bon Pastor","Female",233,219
+2016,9,"Sant Andreu",60,"Sant Andreu","Female",896,708
+2016,9,"Sant Andreu",61,"la Sagrera","Female",646,388
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Female",299,190
+2016,9,"Sant Andreu",63,"Navas","Female",470,346
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Female",974,680
+2016,10,"Sant Martí",65,"el Clot","Female",589,379
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Female",406,236
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Female",195,104
+2016,10,"Sant Martí",68,"el Poblenou","Female",813,483
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Female",332,193
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Female",704,484
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Female",407,320
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Female",535,403
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Female",501,396
+2015,1,"Ciutat Vella",1,"el Raval","Male",3219,1541
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Male",1164,435
+2015,1,"Ciutat Vella",3,"la Barceloneta","Male",808,326
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Male",1302,564
+2015,2,"Eixample",5,"el Fort Pienc","Male",999,519
+2015,2,"Eixample",6,"la Sagrada Família","Male",1544,817
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Male",1376,673
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Male",1443,675
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Male",1699,941
+2015,2,"Eixample",10,"Sant Antoni","Male",1188,726
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Male",1573,968
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Male",33,19
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Male",691,546
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Male",372,209
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Male",605,356
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Male",488,366
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Male",708,568
+2015,3,"Sants-Montjuïc",18,"Sants","Male",1224,918
+2015,4,"Les Corts",19,"les Corts","Male",1022,675
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Male",626,400
+2015,4,"Les Corts",21,"Pedralbes","Male",392,208
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Male",110,88
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Male",579,349
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Male",313,191
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Male",575,366
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Male",1032,586
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Male",679,408
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Male",312,220
+2015,6,"Gràcia",29,"el Coll","Male",177,119
+2015,6,"Gràcia",30,"la Salut","Male",268,167
+2015,6,"Gràcia",31,"la Vila de Gràcia","Male",1607,782
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Male",780,464
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Male",587,367
+2015,7,"Horta-Guinardó",34,"Can Baró","Male",205,128
+2015,7,"Horta-Guinardó",35,"el Guinardó","Male",805,487
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Male",125,91
+2015,7,"Horta-Guinardó",37,"el Carmel","Male",564,449
+2015,7,"Horta-Guinardó",38,"la Teixonera","Male",205,158
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Male",135,117
+2015,7,"Horta-Guinardó",40,"Montbau","Male",112,61
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Male",99,55
+2015,7,"Horta-Guinardó",42,"la Clota","Male",20,11
+2015,7,"Horta-Guinardó",43,"Horta","Male",481,319
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Male",498,322
+2015,8,"Nou Barris",45,"Porta","Male",510,302
+2015,8,"Nou Barris",46,"el Turó de la Peira","Male",382,223
+2015,8,"Nou Barris",47,"Can Peguera","Male",17,26
+2015,8,"Nou Barris",48,"la Guineueta","Male",203,187
+2015,8,"Nou Barris",49,"Canyelles","Male",77,72
+2015,8,"Nou Barris",50,"les Roquetes","Male",409,287
+2015,8,"Nou Barris",51,"Verdun","Male",278,203
+2015,8,"Nou Barris",52,"la Prosperitat","Male",497,379
+2015,8,"Nou Barris",53,"la Trinitat Nova","Male",189,142
+2015,8,"Nou Barris",54,"Torre Baró","Male",70,47
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Male",303,286
+2015,8,"Nou Barris",56,"Vallbona","Male",37,24
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Male",407,296
+2015,9,"Sant Andreu",58,"Baró de Viver","Male",61,36
+2015,9,"Sant Andreu",59,"el Bon Pastor","Male",310,245
+2015,9,"Sant Andreu",60,"Sant Andreu","Male",898,706
+2015,9,"Sant Andreu",61,"la Sagrera","Male",548,364
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Male",272,200
+2015,9,"Sant Andreu",63,"Navas","Male",470,319
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Male",935,623
+2015,10,"Sant Martí",65,"el Clot","Male",612,405
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Male",442,271
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Male",243,128
+2015,10,"Sant Martí",68,"el Poblenou","Male",800,477
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Male",348,241
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Male",921,709
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Male",474,301
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Male",496,335
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Male",529,437
+2015,1,"Ciutat Vella",1,"el Raval","Female",2118,993
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Female",1038,337
+2015,1,"Ciutat Vella",3,"la Barceloneta","Female",746,316
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Female",1250,520
+2015,2,"Eixample",5,"el Fort Pienc","Female",1005,533
+2015,2,"Eixample",6,"la Sagrada Família","Female",1722,866
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Female",1597,807
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Female",1493,702
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Female",1844,995
+2015,2,"Eixample",10,"Sant Antoni","Female",1108,645
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Female",1321,902
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Female",28,20
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Female",674,502
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Female",390,226
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Female",569,324
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Female",451,369
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Female",767,569
+2015,3,"Sants-Montjuïc",18,"Sants","Female",1285,896
+2015,4,"Les Corts",19,"les Corts","Female",1099,737
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Female",714,453
+2015,4,"Les Corts",21,"Pedralbes","Female",350,193
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Female",121,90
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Female",608,368
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Female",396,245
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Female",642,407
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Female",1236,721
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Female",780,429
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Female",351,201
+2015,6,"Gràcia",29,"el Coll","Female",195,108
+2015,6,"Gràcia",30,"la Salut","Female",286,204
+2015,6,"Gràcia",31,"la Vila de Gràcia","Female",1895,931
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Female",863,471
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Female",618,394
+2015,7,"Horta-Guinardó",34,"Can Baró","Female",197,133
+2015,7,"Horta-Guinardó",35,"el Guinardó","Female",858,579
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Female",105,105
+2015,7,"Horta-Guinardó",37,"el Carmel","Female",601,507
+2015,7,"Horta-Guinardó",38,"la Teixonera","Female",215,159
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Female",136,123
+2015,7,"Horta-Guinardó",40,"Montbau","Female",110,60
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Female",85,53
+2015,7,"Horta-Guinardó",42,"la Clota","Female",8,9
+2015,7,"Horta-Guinardó",43,"Horta","Female",507,293
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Female",507,344
+2015,8,"Nou Barris",45,"Porta","Female",494,312
+2015,8,"Nou Barris",46,"el Turó de la Peira","Female",378,261
+2015,8,"Nou Barris",47,"Can Peguera","Female",24,27
+2015,8,"Nou Barris",48,"la Guineueta","Female",232,196
+2015,8,"Nou Barris",49,"Canyelles","Female",85,89
+2015,8,"Nou Barris",50,"les Roquetes","Female",433,303
+2015,8,"Nou Barris",51,"Verdun","Female",316,206
+2015,8,"Nou Barris",52,"la Prosperitat","Female",564,393
+2015,8,"Nou Barris",53,"la Trinitat Nova","Female",191,136
+2015,8,"Nou Barris",54,"Torre Baró","Female",71,43
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Female",297,262
+2015,8,"Nou Barris",56,"Vallbona","Female",36,21
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Female",287,200
+2015,9,"Sant Andreu",58,"Baró de Viver","Female",49,65
+2015,9,"Sant Andreu",59,"el Bon Pastor","Female",269,184
+2015,9,"Sant Andreu",60,"Sant Andreu","Female",913,702
+2015,9,"Sant Andreu",61,"la Sagrera","Female",628,419
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Female",295,222
+2015,9,"Sant Andreu",63,"Navas","Female",462,320
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Female",1013,654
+2015,10,"Sant Martí",65,"el Clot","Female",603,437
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Female",449,263
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Female",241,132
+2015,10,"Sant Martí",68,"el Poblenou","Female",804,515
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Female",325,216
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Female",652,561
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Female",467,269
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Female",463,363
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Female",564,469
+2014,1,"Ciutat Vella",1,"el Raval","Male",2810,1485
+2014,1,"Ciutat Vella",2,"el Barri Gòtic","Male",947,429
+2014,1,"Ciutat Vella",3,"la Barceloneta","Male",704,363
+2014,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Male",1175,520
+2014,2,"Eixample",5,"el Fort Pienc","Male",916,491
+2014,2,"Eixample",6,"la Sagrada Família","Male",1357,788
+2014,2,"Eixample",7,"la Dreta de l'Eixample","Male",1319,679
+2014,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Male",1303,616
+2014,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Male",1594,896
+2014,2,"Eixample",10,"Sant Antoni","Male",1137,624
+2014,3,"Sants-Montjuïc",11,"el Poble Sec","Male",1467,981
+2014,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Male",20,24
+2014,3,"Sants-Montjuïc",13,"la Marina de Port","Male",710,505
+2014,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Male",293,193
+2014,3,"Sants-Montjuïc",15,"Hostafrancs","Male",544,405
+2014,3,"Sants-Montjuïc",16,"la Bordeta","Male",455,360
+2014,3,"Sants-Montjuïc",17,"Sants - Badal","Male",703,561
+2014,3,"Sants-Montjuïc",18,"Sants","Male",1222,887
+2014,4,"Les Corts",19,"les Corts","Male",922,647
+2014,4,"Les Corts",20,"la Maternitat i Sant Ramon","Male",682,382
+2014,4,"Les Corts",21,"Pedralbes","Male",349,209
+2014,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Male",93,72
+2014,5,"Sarrià-Sant Gervasi",23,"Sarrià","Male",510,325
+2014,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Male",369,224
+2014,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Male",553,321
+2014,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Male",980,603
+2014,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Male",693,337
+2014,6,"Gràcia",28,"Vallcarca i els Penitents","Male",308,195
+2014,6,"Gràcia",29,"el Coll","Male",166,104
+2014,6,"Gràcia",30,"la Salut","Male",292,168
+2014,6,"Gràcia",31,"la Vila de Gràcia","Male",1511,853
+2014,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Male",730,490
+2014,7,"Horta-Guinardó",33,"el Baix Guinardó","Male",539,362
+2014,7,"Horta-Guinardó",34,"Can Baró","Male",163,127
+2014,7,"Horta-Guinardó",35,"el Guinardó","Male",682,475
+2014,7,"Horta-Guinardó",36,"la Font d'en Fargues","Male",106,109
+2014,7,"Horta-Guinardó",37,"el Carmel","Male",524,480
+2014,7,"Horta-Guinardó",38,"la Teixonera","Male",208,169
+2014,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Male",109,107
+2014,7,"Horta-Guinardó",40,"Montbau","Male",83,46
+2014,7,"Horta-Guinardó",41,"la Vall d'Hebron","Male",95,58
+2014,7,"Horta-Guinardó",42,"la Clota","Male",9,8
+2014,7,"Horta-Guinardó",43,"Horta","Male",467,324
+2014,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Male",473,358
+2014,8,"Nou Barris",45,"Porta","Male",488,399
+2014,8,"Nou Barris",46,"el Turó de la Peira","Male",328,256
+2014,8,"Nou Barris",47,"Can Peguera","Male",22,46
+2014,8,"Nou Barris",48,"la Guineueta","Male",186,173
+2014,8,"Nou Barris",49,"Canyelles","Male",75,83
+2014,8,"Nou Barris",50,"les Roquetes","Male",380,286
+2014,8,"Nou Barris",51,"Verdun","Male",275,190
+2014,8,"Nou Barris",52,"la Prosperitat","Male",431,364
+2014,8,"Nou Barris",53,"la Trinitat Nova","Male",184,126
+2014,8,"Nou Barris",54,"Torre Baró","Male",78,58
+2014,8,"Nou Barris",55,"Ciutat Meridiana","Male",356,287
+2014,8,"Nou Barris",56,"Vallbona","Male",29,34
+2014,9,"Sant Andreu",57,"la Trinitat Vella","Male",387,311
+2014,9,"Sant Andreu",58,"Baró de Viver","Male",57,76
+2014,9,"Sant Andreu",59,"el Bon Pastor","Male",320,253
+2014,9,"Sant Andreu",60,"Sant Andreu","Male",832,738
+2014,9,"Sant Andreu",61,"la Sagrera","Male",594,490
+2014,9,"Sant Andreu",62,"el Congrés i els Indians","Male",272,185
+2014,9,"Sant Andreu",63,"Navas","Male",429,294
+2014,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Male",888,625
+2014,10,"Sant Martí",65,"el Clot","Male",579,401
+2014,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Male",424,228
+2014,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Male",176,138
+2014,10,"Sant Martí",68,"el Poblenou","Male",847,501
+2014,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Male",307,222
+2014,10,"Sant Martí",70,"el Besòs i el Maresme","Male",964,635
+2014,10,"Sant Martí",71,"Provençals del Poblenou","Male",432,305
+2014,10,"Sant Martí",72,"Sant Martí de Provençals","Male",468,364
+2014,10,"Sant Martí",73,"la Verneda i la Pau","Male",534,398
+2014,1,"Ciutat Vella",1,"el Raval","Female",1877,1024
+2014,1,"Ciutat Vella",2,"el Barri Gòtic","Female",791,344
+2014,1,"Ciutat Vella",3,"la Barceloneta","Female",618,309
+2014,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Female",1041,492
+2014,2,"Eixample",5,"el Fort Pienc","Female",907,546
+2014,2,"Eixample",6,"la Sagrada Família","Female",1519,892
+2014,2,"Eixample",7,"la Dreta de l'Eixample","Female",1481,746
+2014,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Female",1375,755
+2014,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Female",1709,1047
+2014,2,"Eixample",10,"Sant Antoni","Female",1051,687
+2014,3,"Sants-Montjuïc",11,"el Poble Sec","Female",1199,856
+2014,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Female",17,28
+2014,3,"Sants-Montjuïc",13,"la Marina de Port","Female",628,524
+2014,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Female",280,170
+2014,3,"Sants-Montjuïc",15,"Hostafrancs","Female",535,381
+2014,3,"Sants-Montjuïc",16,"la Bordeta","Female",433,330
+2014,3,"Sants-Montjuïc",17,"Sants - Badal","Female",688,604
+2014,3,"Sants-Montjuïc",18,"Sants","Female",1203,843
+2014,4,"Les Corts",19,"les Corts","Female",1054,686
+2014,4,"Les Corts",20,"la Maternitat i Sant Ramon","Female",696,409
+2014,4,"Les Corts",21,"Pedralbes","Female",328,194
+2014,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Female",110,74
+2014,5,"Sarrià-Sant Gervasi",23,"Sarrià","Female",558,393
+2014,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Female",402,218
+2014,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Female",565,354
+2014,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Female",1129,682
+2014,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Female",710,397
+2014,6,"Gràcia",28,"Vallcarca i els Penitents","Female",328,217
+2014,6,"Gràcia",29,"el Coll","Female",186,90
+2014,6,"Gràcia",30,"la Salut","Female",302,178
+2014,6,"Gràcia",31,"la Vila de Gràcia","Female",1666,859
+2014,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Female",740,485
+2014,7,"Horta-Guinardó",33,"el Baix Guinardó","Female",508,378
+2014,7,"Horta-Guinardó",34,"Can Baró","Female",181,136
+2014,7,"Horta-Guinardó",35,"el Guinardó","Female",730,544
+2014,7,"Horta-Guinardó",36,"la Font d'en Fargues","Female",112,104
+2014,7,"Horta-Guinardó",37,"el Carmel","Female",523,436
+2014,7,"Horta-Guinardó",38,"la Teixonera","Female",216,164
+2014,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Female",113,104
+2014,7,"Horta-Guinardó",40,"Montbau","Female",98,59
+2014,7,"Horta-Guinardó",41,"la Vall d'Hebron","Female",83,63
+2014,7,"Horta-Guinardó",42,"la Clota","Female",5,9
+2014,7,"Horta-Guinardó",43,"Horta","Female",487,330
+2014,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Female",486,391
+2014,8,"Nou Barris",45,"Porta","Female",478,373
+2014,8,"Nou Barris",46,"el Turó de la Peira","Female",383,310
+2014,8,"Nou Barris",47,"Can Peguera","Female",23,45
+2014,8,"Nou Barris",48,"la Guineueta","Female",237,191
+2014,8,"Nou Barris",49,"Canyelles","Female",70,73
+2014,8,"Nou Barris",50,"les Roquetes","Female",422,309
+2014,8,"Nou Barris",51,"Verdun","Female",320,224
+2014,8,"Nou Barris",52,"la Prosperitat","Female",459,394
+2014,8,"Nou Barris",53,"la Trinitat Nova","Female",148,126
+2014,8,"Nou Barris",54,"Torre Baró","Female",57,60
+2014,8,"Nou Barris",55,"Ciutat Meridiana","Female",326,251
+2014,8,"Nou Barris",56,"Vallbona","Female",35,36
+2014,9,"Sant Andreu",57,"la Trinitat Vella","Female",262,247
+2014,9,"Sant Andreu",58,"Baró de Viver","Female",56,77
+2014,9,"Sant Andreu",59,"el Bon Pastor","Female",252,227
+2014,9,"Sant Andreu",60,"Sant Andreu","Female",892,716
+2014,9,"Sant Andreu",61,"la Sagrera","Female",663,470
+2014,9,"Sant Andreu",62,"el Congrés i els Indians","Female",299,206
+2014,9,"Sant Andreu",63,"Navas","Female",460,335
+2014,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Female",956,651
+2014,10,"Sant Martí",65,"el Clot","Female",584,409
+2014,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Female",372,227
+2014,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Female",190,116
+2014,10,"Sant Martí",68,"el Poblenou","Female",730,507
+2014,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Female",302,206
+2014,10,"Sant Martí",70,"el Besòs i el Maresme","Female",648,455
+2014,10,"Sant Martí",71,"Provençals del Poblenou","Female",410,305
+2014,10,"Sant Martí",72,"Sant Martí de Provençals","Female",496,355
+2014,10,"Sant Martí",73,"la Verneda i la Pau","Female",562,426
+2013,1,"Ciutat Vella",1,"el Raval","Male",2817,1485
+2013,1,"Ciutat Vella",2,"el Barri Gòtic","Male",921,429
+2013,1,"Ciutat Vella",3,"la Barceloneta","Male",665,363
+2013,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Male",943,520
+2013,2,"Eixample",5,"el Fort Pienc","Male",782,491
+2013,2,"Eixample",6,"la Sagrada Família","Male",1173,788
+2013,2,"Eixample",7,"la Dreta de l'Eixample","Male",1103,679
+2013,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Male",1200,616
+2013,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Male",1477,896
+2013,2,"Eixample",10,"Sant Antoni","Male",1002,624
+2013,3,"Sants-Montjuïc",11,"el Poble Sec","Male",1361,981
+2013,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Male",20,24
+2013,3,"Sants-Montjuïc",13,"la Marina de Port","Male",614,505
+2013,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Male",302,193
+2013,3,"Sants-Montjuïc",15,"Hostafrancs","Male",499,405
+2013,3,"Sants-Montjuïc",16,"la Bordeta","Male",437,360
+2013,3,"Sants-Montjuïc",17,"Sants - Badal","Male",686,561
+2013,3,"Sants-Montjuïc",18,"Sants","Male",1145,887
+2013,4,"Les Corts",19,"les Corts","Male",942,647
+2013,4,"Les Corts",20,"la Maternitat i Sant Ramon","Male",540,382
+2013,4,"Les Corts",21,"Pedralbes","Male",316,209
+2013,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Male",74,72
+2013,5,"Sarrià-Sant Gervasi",23,"Sarrià","Male",468,325
+2013,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Male",374,224
+2013,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Male",474,321
+2013,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Male",828,603
+2013,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Male",537,337
+2013,6,"Gràcia",28,"Vallcarca i els Penitents","Male",287,195
+2013,6,"Gràcia",29,"el Coll","Male",140,104
+2013,6,"Gràcia",30,"la Salut","Male",239,168
+2013,6,"Gràcia",31,"la Vila de Gràcia","Male",1324,853
+2013,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Male",622,490
+2013,7,"Horta-Guinardó",33,"el Baix Guinardó","Male",476,362
+2013,7,"Horta-Guinardó",34,"Can Baró","Male",165,127
+2013,7,"Horta-Guinardó",35,"el Guinardó","Male",618,475
+2013,7,"Horta-Guinardó",36,"la Font d'en Fargues","Male",102,109
+2013,7,"Horta-Guinardó",37,"el Carmel","Male",574,480
+2013,7,"Horta-Guinardó",38,"la Teixonera","Male",195,169
+2013,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Male",120,107
+2013,7,"Horta-Guinardó",40,"Montbau","Male",99,46
+2013,7,"Horta-Guinardó",41,"la Vall d'Hebron","Male",88,58
+2013,7,"Horta-Guinardó",42,"la Clota","Male",12,8
+2013,7,"Horta-Guinardó",43,"Horta","Male",468,324
+2013,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Male",438,358
+2013,8,"Nou Barris",45,"Porta","Male",443,399
+2013,8,"Nou Barris",46,"el Turó de la Peira","Male",351,256
+2013,8,"Nou Barris",47,"Can Peguera","Male",49,46
+2013,8,"Nou Barris",48,"la Guineueta","Male",177,173
+2013,8,"Nou Barris",49,"Canyelles","Male",82,83
+2013,8,"Nou Barris",50,"les Roquetes","Male",376,286
+2013,8,"Nou Barris",51,"Verdun","Male",249,190
+2013,8,"Nou Barris",52,"la Prosperitat","Male",458,364
+2013,8,"Nou Barris",53,"la Trinitat Nova","Male",162,126
+2013,8,"Nou Barris",54,"Torre Baró","Male",68,58
+2013,8,"Nou Barris",55,"Ciutat Meridiana","Male",389,287
+2013,8,"Nou Barris",56,"Vallbona","Male",21,34
+2013,9,"Sant Andreu",57,"la Trinitat Vella","Male",387,311
+2013,9,"Sant Andreu",58,"Baró de Viver","Male",84,76
+2013,9,"Sant Andreu",59,"el Bon Pastor","Male",289,253
+2013,9,"Sant Andreu",60,"Sant Andreu","Male",770,738
+2013,9,"Sant Andreu",61,"la Sagrera","Male",550,490
+2013,9,"Sant Andreu",62,"el Congrés i els Indians","Male",239,185
+2013,9,"Sant Andreu",63,"Navas","Male",361,294
+2013,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Male",829,625
+2013,10,"Sant Martí",65,"el Clot","Male",542,401
+2013,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Male",435,228
+2013,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Male",175,138
+2013,10,"Sant Martí",68,"el Poblenou","Male",718,501
+2013,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Male",273,222
+2013,10,"Sant Martí",70,"el Besòs i el Maresme","Male",894,635
+2013,10,"Sant Martí",71,"Provençals del Poblenou","Male",370,305
+2013,10,"Sant Martí",72,"Sant Martí de Provençals","Male",464,364
+2013,10,"Sant Martí",73,"la Verneda i la Pau","Male",475,398
+2013,1,"Ciutat Vella",1,"el Raval","Female",1716,1024
+2013,1,"Ciutat Vella",2,"el Barri Gòtic","Female",751,344
+2013,1,"Ciutat Vella",3,"la Barceloneta","Female",540,309
+2013,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Female",882,492
+2013,2,"Eixample",5,"el Fort Pienc","Female",815,546
+2013,2,"Eixample",6,"la Sagrada Família","Female",1359,892
+2013,2,"Eixample",7,"la Dreta de l'Eixample","Female",1240,746
+2013,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Female",1272,755
+2013,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Female",1520,1047
+2013,2,"Eixample",10,"Sant Antoni","Female",997,687
+2013,3,"Sants-Montjuïc",11,"el Poble Sec","Female",1097,856
+2013,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Female",17,28
+2013,3,"Sants-Montjuïc",13,"la Marina de Port","Female",600,524
+2013,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Female",297,170
+2013,3,"Sants-Montjuïc",15,"Hostafrancs","Female",466,381
+2013,3,"Sants-Montjuïc",16,"la Bordeta","Female",423,330
+2013,3,"Sants-Montjuïc",17,"Sants - Badal","Female",715,604
+2013,3,"Sants-Montjuïc",18,"Sants","Female",1084,843
+2013,4,"Les Corts",19,"les Corts","Female",973,686
+2013,4,"Les Corts",20,"la Maternitat i Sant Ramon","Female",605,409
+2013,4,"Les Corts",21,"Pedralbes","Female",309,194
+2013,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Female",79,74
+2013,5,"Sarrià-Sant Gervasi",23,"Sarrià","Female",527,393
+2013,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Female",370,218
+2013,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Female",547,354
+2013,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Female",961,682
+2013,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Female",644,397
+2013,6,"Gràcia",28,"Vallcarca i els Penitents","Female",304,217
+2013,6,"Gràcia",29,"el Coll","Female",159,90
+2013,6,"Gràcia",30,"la Salut","Female",283,178
+2013,6,"Gràcia",31,"la Vila de Gràcia","Female",1527,859
+2013,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Female",710,485
+2013,7,"Horta-Guinardó",33,"el Baix Guinardó","Female",519,378
+2013,7,"Horta-Guinardó",34,"Can Baró","Female",175,136
+2013,7,"Horta-Guinardó",35,"el Guinardó","Female",706,544
+2013,7,"Horta-Guinardó",36,"la Font d'en Fargues","Female",105,104
+2013,7,"Horta-Guinardó",37,"el Carmel","Female",535,436
+2013,7,"Horta-Guinardó",38,"la Teixonera","Female",203,164
+2013,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Female",161,104
+2013,7,"Horta-Guinardó",40,"Montbau","Female",130,59
+2013,7,"Horta-Guinardó",41,"la Vall d'Hebron","Female",86,63
+2013,7,"Horta-Guinardó",42,"la Clota","Female",7,9
+2013,7,"Horta-Guinardó",43,"Horta","Female",462,330
+2013,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Female",421,391
+2013,8,"Nou Barris",45,"Porta","Female",464,373
+2013,8,"Nou Barris",46,"el Turó de la Peira","Female",381,310
+2013,8,"Nou Barris",47,"Can Peguera","Female",39,45
+2013,8,"Nou Barris",48,"la Guineueta","Female",217,191
+2013,8,"Nou Barris",49,"Canyelles","Female",68,73
+2013,8,"Nou Barris",50,"les Roquetes","Female",338,309
+2013,8,"Nou Barris",51,"Verdun","Female",285,224
+2013,8,"Nou Barris",52,"la Prosperitat","Female",469,394
+2013,8,"Nou Barris",53,"la Trinitat Nova","Female",164,126
+2013,8,"Nou Barris",54,"Torre Baró","Female",64,60
+2013,8,"Nou Barris",55,"Ciutat Meridiana","Female",326,251
+2013,8,"Nou Barris",56,"Vallbona","Female",32,36
+2013,9,"Sant Andreu",57,"la Trinitat Vella","Female",290,247
+2013,9,"Sant Andreu",58,"Baró de Viver","Female",77,77
+2013,9,"Sant Andreu",59,"el Bon Pastor","Female",237,227
+2013,9,"Sant Andreu",60,"Sant Andreu","Female",830,716
+2013,9,"Sant Andreu",61,"la Sagrera","Female",545,470
+2013,9,"Sant Andreu",62,"el Congrés i els Indians","Female",258,206
+2013,9,"Sant Andreu",63,"Navas","Female",407,335
+2013,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Female",856,651
+2013,10,"Sant Martí",65,"el Clot","Female",539,409
+2013,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Female",404,227
+2013,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Female",189,116
+2013,10,"Sant Martí",68,"el Poblenou","Female",691,507
+2013,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Female",261,206
+2013,10,"Sant Martí",70,"el Besòs i el Maresme","Female",568,455
+2013,10,"Sant Martí",71,"Provençals del Poblenou","Female",360,305
+2013,10,"Sant Martí",72,"Sant Martí de Provençals","Female",446,355
+2013,10,"Sant Martí",73,"la Verneda i la Pau","Female",505,426
